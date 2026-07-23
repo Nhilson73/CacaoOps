@@ -37,7 +37,7 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 | Grano (de café) | Grano (de cacao) / semilla de cacao |
 | Pergamino | Testa / cáscara del grano (en fermentación) |
 | Taza / catación protocolizada | Licor de cacao / cata de cacao / evaluación sensorial del licor |
-| Tostado / tueste | Tostado / torrefacción del cacao |
+| Tostado / tueste | Tostado / tueste del cacao |
 | Tostador | Tostador de cacao / chocolatero |
 | SCA (Specialty Coffee Association) | ICCO / WCF / paneles de cata de cacao |
 | Beneficio | Centro de fermentación / post-cosecha del cacao |
