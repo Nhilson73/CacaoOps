@@ -25,7 +25,17 @@ No requiere build. Sirve la carpeta raíz con cualquier servidor estático:
 python3 -m http.server 8080
 ```
 
-Luego abre http://localhost:8080.
+Luego abre http://127.0.0.1:8080/.
+
+## GitHub Pages
+
+El repositorio incluye el workflow `.github/workflows/pages.yml`. Para activar el sitio:
+
+1. Ve a **Settings → Pages** en el repo.
+2. En **Build and deployment → Source** selecciona **GitHub Actions**.
+3. La URL será `https://nhilson73.github.io/CacaoOps/`.
+
+> Si recargas la página y no ves los últimos cambios, usa `Ctrl+Shift+R` (o `Cmd+Shift+R` en macOS) para forzar la actualización de la caché del navegador.
 
 ## Licencia
 
