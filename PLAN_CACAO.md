@@ -60,7 +60,7 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 
 #### Parte IV: RoastOps
 
-- **Cap 11: El tueste como sistema técnico documentable** → *El tostado del cacao como sistema técnico documentable*: fases (secado, desarrollo, Maillard, punto de descarga), perfiles de torrefacción, curvas de temperatura.
+- **Cap 11: El tueste como sistema técnico documentable** → *El tostado del cacao como sistema técnico documentable*: fases (secado, desarrollo, Maillard, punto de descarga), perfiles de tueste, curvas de temperatura.
 - **Cap 12: Implementando RoastOps** → instrumentación para tostado de cacao, perfiles objetivo, biblioteca de curvas.
 
 #### Parte V/VI
