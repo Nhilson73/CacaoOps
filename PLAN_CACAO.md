@@ -89,10 +89,16 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 - **Validar con fuentes cacaoteras.** Se recomienda contrastar con publicaciones de ICCO, WCF, investigadores como R. F. Schwan (también activo en cacao) y literatura de fermentación de cacao (ICCO, Chocolate Manufacturers Association, centros de investigación latinoamericanos y africanos).
 - **Conservar el tono institucional y la estructura de niveles.** El valor del libro no es la ciencia primaria, sino la traducción a un marco operacional adoptable por operaciones de distinta escala.
 
+## Estado actual del borrador
+
+- **v0.1 · julio 2026** — Se entrega el `PLAN_CACAO.md`, el sitio estático adaptado y el **Capítulo 5 · La fermentación como sistema biológico** en `manuscript.md`.
+- El capítulo piloto ya fue revisado localmente y renderiza correctamente en el sitio estático.
+- Los siguientes capítulos deberán adaptarse siguiendo el glosario y los ajustes descritos en este plan.
+
 ## 7. Próximos pasos sugeridos
 
-1. Validar este plan.
-2. Generar el Capítulo 5 adaptado a cacao como primer borrador.
-3. Copiar y adaptar el sitio estático (`index.html`, `assets/`, `README.md`).
-4. Iterar capítulo por capítulo, comenzando por Parte II (FermentOps) y Parte IV (RoastOps), que son los de mayor densidad técnica.
-5. Revisar al final Parte I, III, V y VI, que son mayoritariamente reemplazos de terminología y ejemplos.
+1. Validar este plan y el Capítulo 5 piloto.
+2. Adaptar la Parte I (contexto sectorial cacaotero).
+3. Desarrollar Parte II completa: Capítulos 6 (implementación operacional) y 7 (evidencia defendible).
+4. Adaptar Parte IV (tostado del cacao / RoastOps).
+5. Revisar Parte III (TraceOps), Parte V (capas de integración) y Parte VI (Visión 2035), mayoritariamente reemplazos de terminología y ejemplos.
