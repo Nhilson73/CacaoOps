@@ -98,7 +98,7 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 
 ## Estado actual del borrador
 
-- **v0.4 · julio 2026** — Se entregan la **Parte II completa (Capítulos 5, 6 y 7)** y la **Parte IV completa (Capítulos 11 y 12)** adaptadas a cacao, junto con `PLAN_CACAO.md`, nota de estilo **tueste, no torrefacción**, y el sitio estático adaptado.
+- **v0.5 · julio 2026** — Se entregan la **Parte II completa (Capítulos 5, 6 y 7)**, la **Parte III completa (Capítulos 8, 9 y 10)** y la **Parte IV completa (Capítulos 11 y 12)** adaptadas a cacao, junto con `PLAN_CACAO.md`, nota de estilo **tueste, no torrefacción**, y el sitio estático adaptado.
 - Los capítulos han sido verificados localmente y renderizan correctamente en el sitio estático.
 - Los siguientes capítulos deberán adaptarse siguiendo el glosario y los ajustes descritos en este plan.
 
