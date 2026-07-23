@@ -37,12 +37,19 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 | Grano (de café) | Grano (de cacao) / semilla de cacao |
 | Pergamino | Testa / cáscara del grano (en fermentación) |
 | Taza / catación protocolizada | Licor de cacao / cata de cacao / evaluación sensorial del licor |
-| Tostado / tueste | Tostado / torrefacción del cacao |
-| Tostador | Tostador de cacao / chocolatero |
+| Tostado / tueste | Tueste del cacao (evitar "torrefacción"; usar "tueste" como sustantivo del proceso) |
+| Tostador / chocolatero | Tostador de cacao / chocolatero |
 | SCA (Specialty Coffee Association) | ICCO / WCF / paneles de cata de cacao |
 | Beneficio | Centro de fermentación / post-cosecha del cacao |
 | Tanque de fermentación | Cajón fermentador / saco de yute / caja / tina / montón |
 | Agua de proceso / mosto | Miel de cacao / jugo de pulpa / mosto fermentante |
+
+### Nota de estilo para capítulos nuevos
+
+- **Tueste, no torrefacción.** En CacaoOps se prefiere el término "tueste" como sustantivo del proceso de tostar el cacao. "Torrefacción" se evita en los nuevos capítulos. El verbo es "tostar"; el resultado puede llamarse "grano tostado" o "licor de cacao tostado".
+- **Cacao fino de aroma.** Se usa como equivalente de "café de especialidad" cuando se habla del segmento premium del cacao.
+- **Mazorca y pulpa.** Se reemplazan "cereza" y "mucílago" por "mazorca" y "pulpa" respectivamente. El jugo fermentable de la pulpa puede llamarse "miel de cacao" o "mosto de pulpa".
+- **Volteos, no recirculación.** En cacao la manipulación típica es el volteo para reoxigenar y homogeneizar la masa, no la recirculación de mosto que es más propia de tanques de café. El drenaje de la miel de cacao puede hacerse, pero no se presenta como recirculación continua salvo en sistemas específicos.
 
 ### 3.2 Ajustes por capítulo
 
@@ -91,8 +98,9 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 
 ## Estado actual del borrador
 
-- **v0.1 · julio 2026** — Se entrega el `PLAN_CACAO.md`, el sitio estático adaptado y el **Capítulo 5 · La fermentación como sistema biológico** en `manuscript.md`.
-- El capítulo piloto ya fue revisado localmente y renderiza correctamente en el sitio estático.
+- **v0.2 · julio 2026** — Se entregan el **Capítulo 5 · La fermentación como sistema biológico** y el **Capítulo 6 · De la captura a la cultura: implementando FermentOps en operaciones reales**, junto con `PLAN_CACAO.md` y el sitio estático adaptado.
+- Ambos capítulos han sido verificados localmente y renderizan correctamente en el sitio estático.
+- Se añadió al plan la nota de estilo: **tueste, no torrefacción**.
 - Los siguientes capítulos deberán adaptarse siguiendo el glosario y los ajustes descritos en este plan.
 
 ## 7. Próximos pasos sugeridos
