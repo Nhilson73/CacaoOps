@@ -98,9 +98,8 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 
 ## Estado actual del borrador
 
-- **v0.9 · julio 2026** — Se entregan las seis partes principales del libro adaptadas a cacao (Capítulos 1-18), `manuscript.md` reordenado al orden I → II → III → IV → V → VI, junto con `PLAN_CACAO.md`, nota de estilo **tueste, no torrefacción**, y el sitio estático adaptado.
-- Los capítulos han sido verificados localmente y renderizan correctamente en el sitio estático.
-- Queda pendiente la adaptación de los elementos complementarios (epílogo, apéndice, glosario) si se desean incluir.
+- **v1.0 · julio 2026** — Manuscrito `manuscript.md` completo adaptado a cacao: seis partes principales (Capítulos 1-18), reordenación final I → II → III → IV → V → VI, y elementos complementarios (epílogo, apéndice y glosario), junto con `PLAN_CACAO.md`, nota de estilo **tueste, no torrefacción**, y sitio estático adaptado.
+- Todo el contenido principal del libro ha sido verificado localmente y renderiza correctamente en el sitio estático.
 
 ## 7. Secuencia de adaptación acordada
 
@@ -113,4 +112,4 @@ Se prioriza cerrar primero los capítulos técnicos con mayor densidad de ajuste
 5. **Parte V · Capas de integración (Capítulos 13-15)** — dimensión económica y humana. **completada**.
 6. **Parte VI · Visión 2035 (Capítulos 16-18)** — **completada**. Visión y caminos.
 7. **Reordenación final del `manuscript.md`** — I → II → III → IV → V → VI. **completada**.
-8. **Elementos complementarios (epílogo, apéndice, glosario)** — pendientes.
+8. **Elementos complementarios (epílogo, apéndice, glosario)** — **completados**.
