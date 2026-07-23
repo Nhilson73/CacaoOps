@@ -5130,3 +5130,641 @@ Después del Capítulo 18 vienen tres elementos que complementan el libro princi
 
 > **DESDE EL ORIGEN ·** *\
 > Para el Cacaocultor que ha llegado al cierre del libro principal de CacaoOps, vale la pena reconocer lo que has hecho durante la lectura. Has acompañado a este libro durante dieciocho capítulos densos, técnicos, exigentes en la atención que reclaman. Has leído sobre fermentaciones químicas, integridad técnica de cadenas, gobernanza del tueste, contratos técnicos comunicativos, asimetrías estructurales del sector, dimensiones humanas frecuentemente invisibilizadas, niveles de cooperación entre actores, proyecciones hacia 2035, y agenda accionable por actor. Es lectura que requiere compromiso real, no entretenimiento ligero. Si has llegado hasta aquí, es porque algo en este libro resonó con tu propia experiencia del sector, con tu propia búsqueda de mejor manera de trabajar el cacao, con tu propio sentido de que el sector cacaotero merece transformación profunda. Lo que sigue ahora no es seguir leyendo. Es comenzar a hacer. Las páginas restantes del libro —el epílogo, el apéndice, el glosario— son complementos valiosos pero no son el trabajo principal. El trabajo principal es lo que harás en tu finca mañana, en tu cooperativa la próxima semana, en tu federación durante los próximos meses, en el sector durante la próxima década. Construir la visión 2035, junto con miles de otros Cacaocultores en muchas regiones del mundo, es la tarea que este libro te invita a asumir. No requiere heroísmo. Requiere disciplina sostenida, cooperación efectiva, paciencia institucional. Si suficientes Cacaocultores asumen esa tarea con seriedad, en 2035 el sector cacaotero mundial será estructuralmente distinto del que recibimos. Tu participación en esa transformación, sumada a la de muchos otros, es lo que hace que el horizonte deseable se vuelva horizonte alcanzable. Gracias por haber acompañado a este libro hasta aquí. Lo que viene ahora depende de lo que cada uno de nosotros decida hacer con lo que ha leído.*
+
+### EPÍLOGO: Lo que el cacao sabe del mundo, y lo que el mundo apenas comienza a saber del cacao
+
+Las dieciocho capítulos del libro construyeron un marco. Este epílogo no añade dimensiones técnicas adicionales. Es donde Cafelium Foundation, después del trabajo de articular el marco con todo el rigor que pudimos sostener, se permite una conversación más sosegada sobre lo que el trabajo significa más allá del marco mismo.
+
+Hay momentos en el trabajo intelectual donde uno descubre que el objeto que estaba estudiando es más grande de lo que parecía al inicio. Comenzamos pensando que estábamos escribiendo un libro sobre cacao. Sobre cómo documentar fermentaciones, preservar trazabilidad, gobernar tueste, comunicar coherentemente al consumidor. Sobre cómo el valor regresa al origen y la dignidad humana de quienes producen el cacao. Esos eran los temas, y siguen siéndolo.
+
+Pero a medida que el trabajo avanzaba, nos fuimos dando cuenta de que el marco que estábamos articulando para el cacao era, en realidad, un marco para una clase más amplia de sectores productivos. Sectores donde el origen es portador de conocimiento y trabajo que el sistema económico mundial tiende a invisibilizar. Sectores donde la coherencia técnica entre origen, cadena y consumo se pierde estructuralmente, y donde esa pérdida tiene costos humanos concretos para las personas que producen. Sectores donde las asimetrías de información, organización, capital y regulación reproducen distribuciones de valor desfavorables al origen, década tras década, sin que ninguna parte del sistema asuma responsabilidad explícita por transformarlas.
+
+El cacao fino de aroma fue donde comenzamos. No porque sea el sector más urgente —hay sectores con condiciones aún más severas que el cacaotero—, sino porque era donde teníamos la cercanía cotidiana con productores, con fincas, con beneficios, con las personas concretas cuyo trabajo el marco busca dignificar. Comenzar donde se está, con quienes se conoce, en lo que se entiende, es modo razonable de hacer trabajo intelectual serio.
+
+> *Comenzamos pensando que escribíamos un libro sobre cacao. Terminamos escribiendo un libro sobre cómo el origen puede recuperar dignidad técnica, económica y humana en sectores donde el sistema mundial tiende a invisibilizarlo.*
+
+### El cacao como espacio multidimensional
+
+Hay una intuición que recorre subterráneamente todo el libro y que el epílogo permite hacer explícita. El cacao no es un punto. Tampoco es un producto. Es un espacio multidimensional donde se entrecruzan dimensiones biológicas, culturales, económicas, humanas, climáticas, históricas. Cada lote de cacao es una posición específica en ese espacio, no una etiqueta plana que pueda comunicarse linealmente al consumidor.
+
+Esta intuición tiene consecuencias. Si el cacao es espacio multidimensional, entonces ninguna documentación lineal puede representarlo plenamente. Las cuatro capas técnicas del marco capturan dimensiones específicas —la biología fermentativa, la integridad de la cadena, la transformación del tueste, la comunicación al consumidor— pero ninguna captura todo. La capa económica añade dimensiones sobre flujos de valor; la capa humana añade dimensiones sobre las personas que producen; la cooperación regional añade dimensiones sobre articulación entre actores. Todas juntas, las siete capas del marco, forman aproximación más completa al espacio multidimensional que el cacao efectivamente es. Pero siguen siendo aproximación, no representación exhaustiva.
+
+Reconocer esto tiene importancia metodológica. El marco no pretende capturar la totalidad del cacao. Pretende capturar las dimensiones que son técnicamente documentables y económicamente accionables, en formatos que permiten que esa información viaje coherentemente del origen al consumidor. Lo que queda fuera del marco —la dimensión cultural profunda, la conexión emocional con territorios y comunidades, la riqueza sensorial que solo la experiencia directa transmite— sigue siendo parte del cacao aunque el marco no la formalice. Reconocer esos límites es parte de la honestidad del marco.
+
+Este reconocimiento del cacao como espacio multidimensional encuentra ecos en investigación reciente sobre cómo los modelos computacionales representan estructura del mundo. Investigaciones publicadas en 2026 muestran que los modelos de inteligencia artificial entrenados sobre datos del mundo desarrollan representaciones internas con geometría rica que recapitula la estructura del mundo modelado: los meses del año aparecen como círculos en el espacio de activaciones, los años de la historia como curvas suaves, los colores como superficies estructuradas, el árbol de la vida como variedad compleja. La geometría no es decoración: es la forma técnicamente correcta de representar conceptos que tienen estructura interna no lineal.
+
+La intuición de que el cacao merece representación geométrica multidimensional, no representación plana de etiquetas, es coherente con esa investigación. El cacao tiene estructura interna —relaciones entre variedad y proceso, entre fermentación y tueste, entre origen y resultado sensorial, entre dimensión técnica y dimensión humana— que no es lineal. Representarlo plana e individualmente, como tradicionalmente se hace, es perder estructura significativa. Representarlo geométricamente, como espacio donde cada lote es posición con relaciones a otras posiciones, es comenzar a hacerle justicia a su complejidad real.
+
+El apéndice de implementaciones de referencia que sigue al epílogo desarrolla esta intuición en términos técnicos específicos, mostrando cómo plataformas concretas están comenzando a implementar el cacao como espacio geométrico multidimensional consultable. Aquí, en el epílogo, basta con dejar planteada la intuición filosófica: el cacao merece más que etiquetas planas. Merece espacios donde su complejidad real pueda preservarse y comunicarse.
+
+> *El cacao no es un punto. Es un espacio multidimensional. Cualquier representación que lo aplaste a un punto pierde, en la compresión, lo que hace al cacao distinto de cualquier otra bebida del mundo.*
+
+### Más allá del cacao
+
+La filosofía abierta del marco —establecida en el introducción, sostenida a lo largo de todo el libro— implica que CacaoOps no es propiedad exclusiva de Cafelium Foundation, ni del sector cacaotero. Sus principios técnicos, económicos y humanos son aplicables a cualquier sector productivo donde el origen merezca recuperar coherencia técnica y económica frente a cadenas que tradicionalmente lo han invisibilizado.
+
+Mientras escribíamos este libro, descubrimos que actores de otros sectores estaban preguntando lo mismo: si los principios articulados aquí podrían adaptarse a sectores hermanos donde enfrentan dinámicas estructurales análogas. Las dos conversaciones que más profundizamos durante el período de escritura fueron con actores del sector cacaotero y del sector vitivinícola.
+
+CacaoOps emerge como adaptación del marco al sector cacaotero, donde las dinámicas son estructuralmente similares al cacao aunque con especificidades técnicas propias. La fermentación del cacao tiene parámetros distintos pero igualmente documentables. La cadena entre el origen y el chocolate procesado tiene asimetrías de valor incluso más severas que las del cacao. La dimensión humana del trabajo cacaotero presenta desafíos comparables, frecuentemente con condiciones más vulnerables aún. Y los principios de soberanía de datos, prima estructural documentada, dignidad humana integrada y cooperación regional se traducen al cacao con adaptaciones específicas pero sin pérdida de coherencia.
+
+VidOps emerge como adaptación del marco al sector vitivinícola, donde las tradiciones documentales del vino —denominaciones de origen, regulaciones específicas, vocabulario técnico maduro— ofrecen base sobre la cual integrar las dimensiones del marco que el sector ha desarrollado menos sistemáticamente. La dimensión técnica del vino está más madura que la del cacao en muchos aspectos. La dimensión humana, paradójicamente, ha recibido menos atención sistemática. Las dimensiones de soberanía de datos del productor y de cooperación regional efectiva entre denominaciones tienen oportunidades significativas de fortalecimiento.
+
+Estos sectores hermanos no son tema de este libro. CacaoOps es marco para el cacao, y el cacao merece sus propias dieciocho capítulos sin que el marco se diluya en pretensiones generalistas. Los mencionamos en el epílogo porque su existencia confirma una intuición que el libro principal ya sostuvo subterráneamente: los principios articulados aquí son más generales que el sector específico donde se desarrollaron. Cada sector productivo donde el origen necesita recuperar dignidad técnica, económica y humana puede beneficiarse de adaptaciones específicas del marco.
+
+Si en algún momento del futuro próximo la lectora o el lector encuentra el marco aplicado a sectores que no aparecen en este libro —cacao, vino, té, especias, productos forestales, productos artesanales de origen rural, productos pesqueros tradicionales—, esa generalización no es desviación del marco original. Es continuación natural de su filosofía abierta.
+
+> *Lo que escribimos para el cacao es, en su forma más profunda, marco para cualquier sector productivo donde el origen merezca recuperar la dignidad técnica, económica y humana que el sistema mundial tiende a negarle.*
+
+### El trabajo que queda
+
+Una de las tentaciones del trabajo intelectual es presentar lo que se ha hecho como obra completa, sin reconocer abiertamente lo que falta. Ese reconocimiento es propio del epílogo, donde la honestidad sobre los límites del propio trabajo es mejor servicio al lector que la pretensión de exhaustividad.
+
+Hay áreas significativas del marco donde el trabajo escrito es menos profundo que el trabajo que queda por hacer. Lo nombramos sin defensividad.
+
+La dimensión climática del marco está presente subterráneamente —en la mención al cambio climático como riesgo, en referencias a regulaciones de deforestación, en reconocimiento de la fragilidad ambiental de regiones cacaotero— pero no está articulada como capa específica con la profundidad de las cuatro capas técnicas. Una próxima evolución del marco probablemente requiera articular ClimaOps, o como se llame, con la misma seriedad con que articulamos FermentOps. La crisis climática es demasiado grande para tratarla como dimensión periférica.
+
+La dimensión cultural del cacao —las tradiciones, los rituales, las identidades comunitarias que constituyen al sector— está mencionada pero no desarrollada como capa específica. El marco se concentró en las dimensiones técnicamente documentables y económicamente accionables. Las dimensiones culturales merecen tratamiento que respete su naturaleza no reducible a métricas pero al mismo tiempo permita que sean preservadas y comunicadas con la misma seriedad.
+
+La dimensión de género, aunque presente en el Capítulo 15, merece probablemente capítulo propio en una próxima edición del libro. Las dinámicas de género en el sector cacaotero mundial son lo suficientemente complejas y específicas como para justificar tratamiento dedicado, no integración en una capa humana general.
+
+La dimensión de los consumidores, aunque presente en varios capítulos, merece probablemente desarrollo más completo sobre cómo se construye, sostiene y profundiza la educación del consumidor a escala. Esta es trabajo de mediano plazo donde organizaciones del sector productivo tienen rol central.
+
+Y la dimensión más amplia, la que conecta el sector cacaotero con la economía política global, está apenas insinuada. Las cuatro asimetrías estructurales del Capítulo 14 son punto de partida, no análisis exhaustivo. Una articulación más completa de cómo el marco se conecta con luchas más amplias por sistemas económicos justos —en agricultura, en trabajo rural, en relaciones Norte-Sur— es trabajo que excede este libro pero que el sector productivo organizado tiene tarea pendiente de hacer en los próximos años.
+
+Esta lista no es exhaustiva. Es muestra de la honestidad sobre los límites del trabajo presentado. Cada lectora y cada lector encontrará dimensiones adicionales que el libro deja sin desarrollar suficientemente. La invitación es a que esas dimensiones sean trabajadas por quienes las identifican, en colaboración con organizaciones del sector productivo que puedan integrarlas al marco en evoluciones futuras. CacaoOps no es producto terminado. Es referencia evolutiva que debe enriquecerse con el trabajo de muchos actores durante muchos años.
+
+> **Reconocer las limitaciones del propio trabajo no es debilidad. Es invitación a que otros lo enriquezcan. Un marco que se presenta como completo termina siendo dogma. Un marco que reconoce sus límites permanece vivo, abierto a la cooperación que su construcción colectiva requiere.**
+
+### Un agradecimiento que no es simbólico
+
+Es costumbre cerrar libros con agradecimientos. La costumbre tiende a producir listas formales de personas que ayudaron al trabajo, frecuentemente con tono que se vuelve protocolar. En este epílogo el agradecimiento es distinto, no porque las personas que ayudaron no merezcan reconocimiento individual —lo merecen y lo recibirán en otros formatos— sino porque hay un agradecimiento más estructural que conviene hacer explícito aquí.
+
+Este libro no habría sido posible sin las décadas de trabajo de Cacaocultoras y Cacaocultores en muchas regiones del mundo que sostuvieron, contra dinámicas adversas, prácticas técnicas excelentes que el sector mainstream raramente reconoció. Sus innovaciones en fermentación, su disciplina en el procesamiento, su atención a las dimensiones que el marco ahora documenta —todo eso existía en operaciones específicas mucho antes de que cualquier libro lo articulara como marco. El libro no inventó nada. Articuló y formalizó lo que el sector productivo organizado ya estaba haciendo de manera dispersa pero rigurosa.
+
+Este libro tampoco habría sido posible sin las trabajadoras y trabajadores cacaoteros —las personas que históricamente fueron invisibles en las narrativas dominantes del sector— cuya labor cotidiana sostiene la producción cacaotera mundial. Las cosechadoras y cosechadores temporales, las personas migrantes que cruzan fronteras siguiendo ciclos de cosecha, las mujeres que combinan trabajo cacaotero y doméstico sin reconocimiento formal, las comunidades indígenas que mantienen conocimientos heredados de generación en generación. Su trabajo es la base material sobre la cual el marco entero se construye. Reconocerlo no es ejercicio retórico: es acto de coherencia con los principios que el libro mismo articuló.
+
+Este libro tampoco habría sido posible sin organizaciones del sector productivo —federaciones nacionales, cooperativas locales, asociaciones regionales, redes informales entre productores— que durante décadas construyeron el tejido institucional sobre el cual la articulación que el marco propone puede materializarse. Su trabajo lento, frecuentemente sin reconocimiento mediático, frecuentemente con recursos modestos, es lo que distingue a un sector productivo que puede transformarse de uno que solo puede ser transformado por actores externos.
+
+Este libro tampoco habría sido posible sin las personas que en distintas regiones del mundo —en universidades, en centros de investigación, en organizaciones de cooperación, en algunas empresas comprometidas con el origen— han venido construyendo, durante décadas, conocimiento técnico riguroso sobre el cacao. Su trabajo aparece citado en pies de página y referencias del libro, pero el reconocimiento de su contribución estructural merece nombrarse aquí explícitamente.
+
+Y este libro no habría sido posible sin las muchas personas que durante el período de escritura participaron directamente en su construcción. Conversaciones con productores específicos sobre sus prácticas. Lecturas críticas de borradores parciales. Aportes técnicos en áreas donde el equipo de Cafelium Foundation tenía conocimiento limitado. Apoyo institucional cuando el proyecto del libro enfrentaba obstáculos. Esas personas no se nombran individualmente en el epílogo —el formato apropiado para ese reconocimiento es otro— pero su contribución se reconoce con la misma seriedad que las anteriores.
+
+> *Ningún libro es trabajo individual. Este libro tampoco. Lo que aparece bajo el nombre de Cafelium Foundation es articulación de saberes, esfuerzos y aportes de muchas personas durante mucho tiempo. La honestidad sobre esa colectividad es parte del marco que el libro mismo propone.*
+
+### Una palabra sobre la urgencia
+
+El libro ha sido cuidadoso con sus tiempos. Habla de horizontes 2035, de transformaciones de mediano plazo, de paciencia institucional sostenida durante una década. Esa cuidadosidad es deliberada: las transformaciones estructurales del sector cacaotero no se construyen con prisa, y prometer rapidez que no se puede entregar es traicionar al sector productivo en sus expectativas.
+
+Pero hay momentos donde la urgencia merece nombrarse. La crisis climática avanza más rápido de lo que las transformaciones del sector pueden adaptarse. Las regiones cacaotero del mundo están experimentando ya, no en proyecciones futuras, transformaciones agroecológicas que comprometen las condiciones tradicionales de cultivo. Las generaciones jóvenes del sector están abandonando regiones cacaotero, frecuentemente con razón, hacia sectores donde las condiciones son menos adversas. Las dinámicas extractivas del sistema económico mundial siguen operando con eficiencia que sería admirable si no fuera socialmente devastadora.
+
+En este contexto, los diez años hacia 2035 no son tiempo abundante. Son tiempo que se está agotando para que el sector productivo organizado construya lo que el marco propone antes de que las condiciones estructurales se vuelvan tan adversas que la transformación se vuelva más difícil. La paciencia institucional que el libro defiende no es paciencia con dilación. Es paciencia con la profundidad del trabajo, contrastada con la urgencia de comenzar ese trabajo ya.
+
+Para las lectoras y lectores que han llegado al final del libro, la invitación es directa: lo que el libro propone no puede esperar. Cada año que el sector productivo permanezca operando con las prácticas tradicionales es un año donde las asimetrías estructurales se reproducen, las dimensiones humanas siguen invisibilizadas, los productores envejecen sin relevo, las regiones cacaotero pierden viabilidad. Lo que el marco propone es trabajo de una década, pero la década comienza ahora. No comienza después.
+
+### Lo que sigue al libro
+
+Cuando la lectora o el lector cierre este libro físicamente —o termine de leerlo en pantalla—, comienza la fase del trabajo donde el libro deja de ser texto y se vuelve práctica. Esa transición es, en última instancia, lo que justificó escribir el libro. Si el libro queda como pieza de literatura sectorial bien escrita pero no se traduce en transformación operacional, habrá fallado en su propósito último.
+
+La traducción del libro a práctica no es responsabilidad de Cafelium Foundation. Es responsabilidad distribuida entre todas las personas que el libro alcanza. Los Cacaocultores que mejoran sus prácticas. Las cooperativas que adoptan el marco. Las federaciones nacionales que articulan posturas comunes. Los tostadores que transforman sus relaciones con orígenes. Los consumidores que aprenden a leer etiquetas críticamente. Las autoridades que diseñan regulaciones coherentes. Las organizaciones que apoyan al sector productivo. Cafelium Foundation tiene rol específico en este ecosistema, pero no es rol central. Es rol articulador y catalizador, no rol protagónico.
+
+Este es probablemente el aprendizaje más importante del proceso de escribir el libro: que la transformación del sector cacaotero mundial no depende de actores excepcionales sino de actores ordinarios sostenidos en la cooperación durante una década. Lo extraordinario es la suma de lo ordinario hecho con disciplina y constancia. Esta es noticia esperanzadora, no noticia desalentadora. Significa que la transformación es posible sin requerir héroes, ideólogos o salvadores. Significa que cada lectora y cada lector tiene rol real en la construcción de la visión 2035, sin importar cuán modestas sean sus capacidades individuales.
+
+El sector cacaotero mundial puede ser, para 2035, estructuralmente distinto del que hoy conocemos. Más justo en su distribución de valor. Más digno en sus dimensiones humanas. Más coherente en su comunicación al consumidor. Más resiliente ante las crisis que enfrenta. Más respetuoso de las soberanías que merece preservar. Más cooperativo en la articulación de sus actores. Más sostenible en su adaptación a las condiciones cambiantes.
+
+Construirlo es trabajo de la próxima década. La invitación, simple y exigente, es a participar en esa construcción desde el lugar donde cada persona se encuentra. No mañana. Hoy.
+
+> *Lo extraordinario es la suma de lo ordinario hecho con disciplina y constancia. La transformación del sector cacaotero mundial no requiere héroes. Requiere participación sostenida de actores ordinarios durante una década.*
+
+### Cafelium Foundation: Mayo de 2026
+
+### ---
+
+### APÉNDICE
+
+### Implementaciones de Referencia: Las plataformas Nebula y la materialización del Digital Terroir
+
+El libro principal articuló el marco CacaoOps como referencia abierta del sector cacaotero mundial. Las cuatro capas técnicas, la capa económica, la capa humana y la cooperación regional son principios y mecanismos que cualquier actor del sector productivo puede adoptar, adaptar y mejorar según su contexto, sin pagos a Cafelium Foundation y sin licencias propietarias.
+
+Este apéndice cumple una función complementaria. Presenta tres implementaciones específicas del marco que Cafelium Foundation ha venido desarrollando bajo el nombre Nebula durante los años recientes. No son las únicas implementaciones posibles. No son la implementación correcta del marco. Son ejemplos concretos de cómo los principios pueden materializarse en plataformas técnicas funcionales, presentados aquí como referencia para actores del sector productivo que están construyendo sus propias implementaciones.
+
+Las tres plataformas son Nebula Agtech, que captura las dimensiones biológicas y operacionales del lote en el origen; Nebula Fermentation, que profundiza específicamente en la dimensión fermentativa como el momento técnicamente más complejo y consecuente del proceso; y Nebula Originblok, que materializa el Digital Terroir como espacio consultable a lo largo de la cadena, preservando integridad técnica y soberanía del productor.
+
+Antes de presentar cada plataforma específicamente, este apéndice profundiza el concepto de Digital Terroir esbozado filosóficamente en el introducción. Allí establecimos Digital Terroir como filosofía fundacional con cinco principios. Aquí articulamos qué significa, técnicamente, que el Digital Terroir sea representación geométrica multidimensional del cacao. Esta articulación no es decoración conceptual: es lo que justifica las decisiones arquitectónicas específicas de las tres plataformas Nebula.
+
+> *Las plataformas Nebula presentadas en este apéndice son ejemplos específicos, no la implementación correcta del marco. CacaoOps es referencia abierta que admite muchas implementaciones complementarias con principios análogos pero arquitecturas, énfasis y modelos económicos distintos.*
+
+#### 1. Digital Terroir: profundización técnica del concepto fundacional
+
+El introducción del libro principal estableció Digital Terroir como filosofía fundacional de CacaoOps con cinco principios. Esta sección desarrolla la articulación técnica de qué significa que el Digital Terroir sea representación geométrica multidimensional, no colección plana de etiquetas. La articulación parte de la naturaleza propia del cacao como sistema productivo y deriva, desde esa naturaleza, las exigencias técnicas que las plataformas que materializan el Digital Terroir deben cumplir.
+
+#### 1.1 La naturaleza multidimensional del cacao
+
+Una afirmación que el libro ha sostenido subterráneamente desde sus primeros capítulos puede hacerse explícita aquí. El cacao fino de aroma no es un producto en el sentido industrial habitual. No es resultado predecible de procesos estandarizados aplicados a insumos uniformes. Es resultado específico, irrepetible en sentido estricto, de la interacción de muchas dimensiones técnicas, biológicas, climáticas, humanas y culturales que solo conjuntamente producen el lote particular que llega al consumidor.
+
+Pensemos en lo que un lote específico de cacao fino de aroma efectivamente es. Es expresión de una variedad cacaotera con propiedades genéticas distintivas heredadas de generaciones de selección. Es resultado de condiciones agroecológicas específicas del territorio donde se cultivó: altitud, características del suelo, microclima estacional, exposición solar, pluviosidad. Es producto de prácticas agrícolas específicas del Cacaocultor que lo cultivó: manejo de la plantación, decisiones de poda, control de plagas, momento de cosecha. Es resultado de un proceso fermentativo con parámetros propios: método aplicado, duración, temperatura, pH, microbioma específico que se desarrolló durante el proceso. Es producto de prácticas de secado, trilla y selección con sus decisiones técnicas particulares. Es transformado por un tueste con perfil específico que interactúa con todas las dimensiones anteriores. Y produce, finalmente, un perfil sensorial específico que el catador de licor profesional puede caracterizar con múltiples descriptores.
+
+Estas dimensiones no son independientes entre sí. La variedad genética interactúa con el microclima en formas que no se reducen a suma de efectos individuales. El proceso fermentativo modifica diferencialmente el potencial sensorial según la genética del lote: la misma técnica fermentativa produce resultados distintos según la variedad sobre la que se aplica. El tueste desarrolla diferencialmente los precursores aromáticos según las decisiones fermentativas previas. El perfil sensorial final emerge de la interacción no aditiva de todas las dimensiones técnicas anteriores. Y la dimensión humana —las condiciones laborales bajo las cuales el lote fue producido, las personas específicas cuyo trabajo lo hizo posible— es parte del lote tanto como cualquier dimensión técnica, no añadido posterior.
+
+La consecuencia técnica de esta naturaleza multidimensional es precisa. Ningún lote de cacao fino de aroma puede describirse correctamente con un conjunto de etiquetas independientes. Cada lote ocupa una posición específica en un espacio donde las dimensiones se entrecruzan no linealmente. Lo que el lote efectivamente es no se captura listando sus atributos por separado, porque al separarlos se pierde precisamente lo que los hace ser ese lote y no otro: las relaciones entre dimensiones.
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **DIGITAL TERROIR · Las dimensiones que constituyen un lote de cacao fino de aroma**                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dimensiones biológicas: variedad cacaotera específica, características fisiológicas de la planta, microbioma del territorio donde se cultiva.                                                      |
+|                                                                                                                                                                                                   |
+| Dimensiones agroecológicas: altitud, suelo, microclima, exposición solar, pluviosidad, manejo de la plantación.                                                                                   |
+|                                                                                                                                                                                                   |
+| Dimensiones temporales: ciclos de floración y cosecha, duración del proceso fermentativo, edad del lote desde la cosecha hasta el tueste.                                                         |
+|                                                                                                                                                                                                   |
+| Dimensiones técnicas del proceso: método fermentativo aplicado, parámetros de pH y temperatura, decisiones de secado, manejo del beneficio.                                                       |
+|                                                                                                                                                                                                   |
+| Dimensiones del tueste: perfil aplicado, hitos térmicos, ritmo de desarrollo, decisiones técnicas específicas del lote.                                                                           |
+|                                                                                                                                                                                                   |
+| Dimensiones sensoriales: perfil aromático, sabor, cuerpo, acidez, postgusto, equilibrio, descriptores específicos.                                                                                |
+|                                                                                                                                                                                                   |
+| Dimensiones humanas: composición de la fuerza laboral, condiciones de trabajo, prácticas específicas, dignidad de las personas que produjeron el lote.                                            |
+|                                                                                                                                                                                                   |
+| Dimensiones de cadena: actores que participaron en la transferencia del lote, condiciones de almacenamiento, tiempos de tránsito.                                                                 |
+|                                                                                                                                                                                                   |
+| Estas dimensiones no son independientes entre sí. Sus interacciones son no lineales. La descripción correcta del lote captura tanto las dimensiones individuales como las relaciones entre ellas. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 1.2 Por qué la representación geométrica es necesaria
+
+Si las dimensiones del cacao se entrecruzan no linealmente, la representación correcta del cacao debe respetar esa naturaleza no lineal. Una representación lineal —una etiqueta con atributos listados independientemente— pierde estructura fundamental. Aplastar relaciones no lineales a representaciones lineales es como aplastar un círculo a una línea recta: lo que queda preserva la longitud aproximada pero pierde precisamente lo que hacía circular al círculo.
+
+La representación que preserva las relaciones entre dimensiones es la representación geométrica multidimensional. Cada lote, en lugar de ser punto en espacio plano caracterizado por etiquetas independientes, es posición específica en variedad multidimensional donde las dimensiones tienen relaciones geométricas explícitas entre sí. La distancia entre dos lotes en esa variedad no es comparación directa de sus etiquetas: es comparación que respeta cómo las dimensiones se relacionan no linealmente entre sí.
+
+Esta representación geométrica permite operaciones técnicas que la representación lineal no permite. Identificar lotes similares en términos relevantes para una pregunta específica, no en términos genéricos. Predecir comportamiento sensorial a partir de decisiones técnicas previas, respetando las relaciones no lineales entre dimensiones. Construir conocimiento acumulativo donde lotes documentados informan sobre lotes futuros, no como base de datos de etiquetas separadas sino como espacio donde las relaciones aprendidas se aplican a posiciones nuevas. Comunicar al consumidor la posición específica del lote en el espacio multidimensional, no solo sus atributos aislados.
+
+La afirmación central del Digital Terroir como concepto técnico es directa. El cacao fino de aroma merece representación geométrica multidimensional porque su naturaleza es multidimensional no linealmente. Cualquier representación más simple es decisión de simplificación, no descripción correcta. Las simplificaciones son a veces necesarias por restricciones prácticas, pero deben reconocerse como simplificaciones, no presentarse como representaciones completas del lote.
+
+> *El cacao fino de aroma merece representación geométrica multidimensional porque su naturaleza es multidimensional no linealmente. Cualquier representación más simple es decisión de simplificación, no descripción correcta del lote.*
+
+#### 1.3 Cuatro implicaciones arquitectónicas
+
+Si el Digital Terroir es variedad geométrica multidimensional, las plataformas que lo materializan deben respetar esa naturaleza. Esto tiene cuatro implicaciones arquitectónicas específicas que distinguen a las plataformas Nebula de plataformas de trazabilidad tradicionales construidas sobre representación lineal.
+
+La primera implicación es que las dimensiones del cacao deben capturarse en su forma natural, no en formas reducidas que descarten estructura. Variables continuas como temperatura, pH y oxígeno disuelto se preservan como series temporales completas, no como valores únicos representativos. Variables ordinales como puntajes sensoriales se preservan con su estructura ordinal completa, incluyendo descriptores que permiten reconstruir el perfil. Variables categóricas como variedades se preservan con sus relaciones genéticas a otras variedades, no como etiquetas independientes.
+
+La segunda implicación es que las relaciones entre dimensiones deben preservarse explícitamente, no inferirse implícitamente. Cuando el proceso fermentativo se documenta, su documentación incluye explícitamente las dimensiones genéticas y agroecológicas del lote con las cuales interactúa. Cuando el tueste se documenta, su documentación incluye explícitamente las decisiones fermentativas previas con las cuales interactúa. La preservación de estas relaciones es lo que permite que la representación geométrica efectivamente capture estructura del lote, no solo dimensiones aisladas.
+
+La tercera implicación es que las consultas a la representación deben respetar su naturaleza geométrica. Comparar dos lotes no es comparar dos conjuntos de etiquetas; es identificar dos posiciones en la variedad multidimensional y caracterizar la distancia geométrica entre ellas según las dimensiones relevantes para la pregunta específica. Buscar lotes similares no es buscar etiquetas idénticas; es buscar posiciones cercanas en la variedad. Predecir comportamiento sensorial no es interpolar linealmente entre etiquetas; es seguir la geometría de la variedad respetando las relaciones no lineales entre dimensiones.
+
+La cuarta implicación es que la comunicación al consumidor debe respetar también la naturaleza geométrica de la representación, en formatos accesibles sin requerir formación técnica avanzada. Visualizaciones que muestren al consumidor la posición específica del lote en la variedad multidimensional. Descripciones que articulen las dimensiones específicas que distinguen al lote de otros similares. Mecanismos de profundización que permitan al consumidor explorar el espacio del Digital Terroir desde la posición específica del lote que tiene en su mano.
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **DIGITAL TERROIR · Cuatro implicaciones arquitectónicas del Digital Terroir geométrico**                                                                                                                                                          |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Captura en forma natural: las dimensiones se preservan en su forma natural (series temporales para variables continuas, estructura ordinal para puntajes, relaciones para variables categóricas), no en formas reducidas que descartan estructura. |
+|                                                                                                                                                                                                                                                    |
+| Preservación explícita de relaciones: las relaciones entre dimensiones se documentan explícitamente, no se infieren implícitamente, para que la representación efectivamente capture estructura, no solo dimensiones aisladas.                     |
+|                                                                                                                                                                                                                                                    |
+| Consultas geométricas: comparaciones, búsquedas y predicciones se realizan respetando la geometría de la variedad, no aplicando lógica lineal a representaciones intrínsecamente no lineales.                                                      |
+|                                                                                                                                                                                                                                                    |
+| Comunicación geométrica al consumidor: visualizaciones, descripciones y mecanismos de profundización que respeten la naturaleza geométrica en formatos accesibles sin formación técnica avanzada.                                                  |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Estas cuatro implicaciones arquitectónicas distinguen a las plataformas Nebula de plataformas de trazabilidad tradicionales y, simultáneamente, justifican el trabajo técnico significativamente mayor que su construcción requiere comparado con plataformas de trazabilidad lineal. Las próximas secciones del apéndice presentan cada plataforma específicamente, mostrando cómo las implicaciones arquitectónicas se materializan concretamente en sistemas operativos.
+
+> **La diferencia entre las plataformas Nebula y plataformas de trazabilidad tradicionales no es de sofisticación cuantitativa: es de respeto cualitativo a la naturaleza multidimensional del cacao. Esta diferencia justifica las decisiones arquitectónicas específicas que las próximas secciones articulan.**
+
+#### 2. Nebula Terra: captura del origen como contribución al Digital Terroir
+
+Nebula Terra es la plataforma que captura las dimensiones del Digital Terroir generadas en el origen: las dimensiones biológicas, agronómicas, climáticas y operacionales del lote desde la planta hasta la entrega del cacao seco al beneficio centralizado. Es la implementación específica de FermentOps articulado en los Capítulos 5, 6 y 7, complementada con dimensiones agronómicas adicionales que el marco no desarrolló completamente pero que pertenecen al Digital Terroir.
+
+#### 2.1 Qué dimensiones captura Nebula Agtech
+
+La plataforma se diseñó para capturar sistemáticamente las dimensiones del lote que se generan en el origen, en formatos que respetan los principios articulados en la sección anterior. La captura no pretende ser exhaustiva: pretende ser suficiente para que la posición del lote en el Digital Terroir quede definida con la fidelidad técnica necesaria para los propósitos del marco completo.
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **IMPLEMENTACIÓN · Dimensiones que Nebula Terra captura del origen**                                                                                                                                                                                               |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dimensiones genéticas: variedad cacaotera específica con identificación que permite trazar relaciones genéticas con otras variedades del Digital Terroir.                                                                                                           |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones agroecológicas: ubicación geográfica precisa cuando el productor autoriza, altitud, características del suelo, microclima, prácticas agrícolas aplicadas durante el ciclo.                                                                             |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones temporales: fechas precisas de floración, cosecha, beneficiado, entrega. Series temporales completas para variables que evolucionan durante el proceso.                                                                                                |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones fermentativas: parámetros completos de FermentOps según el nivel practicado por el origen. Curvas temporales de pH, temperatura, oxígeno disuelto cuando se capturan, microbioma cuando se caracteriza en operaciones que practican el Nivel Avanzado. |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones operacionales del beneficio: prácticas específicas de apertura de la mazorca, extracción del grano con pulpa, fermentación, volteos, secado, trilla y selección. Cada una con los parámetros técnicos específicos del lote.                                                        |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones humanas del origen: composición de la fuerza laboral del lote, condiciones laborales específicas, prácticas de seguridad, formalización laboral, equidad de género en el equipo.                                                                       |
+|                                                                                                                                                                                                                                                                    |
+| Dimensiones de soberanía: información específica que el productor autoriza compartir, con quién, en qué nivel de detalle, durante cuánto tiempo. La soberanía de datos se implementa explícitamente, no implícitamente.                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+La captura se realiza mediante combinación de instrumentos físicos en el origen (sondas térmicas, medidores de pH, sensores ambientales según el nivel de FermentOps practicado), aplicaciones móviles que el equipo operativo del beneficio usa cotidianamente, e integraciones con sistemas existentes en operaciones que ya tienen infraestructura técnica establecida. La plataforma se adaptó deliberadamente a operaciones de distintas escalas: una finca pequeña con FermentOps Esencial puede usar Nebula Agtech con instrumentos básicos y aplicación móvil; un beneficio grande con FermentOps Intermedio puede usar la plataforma con sensores integrados y captura automatizada.
+
+#### 2.2 Cómo Nebula Terra respeta el Digital Terroir
+
+El diseño de la captura sigue las cuatro implicaciones arquitectónicas articuladas en la sección anterior. Las dimensiones se capturan en su forma natural: las temperaturas durante la fermentación se preservan como series temporales completas, no como temperatura promedio única. Las relaciones entre dimensiones se documentan explícitamente: cuando se registra un parámetro fermentativo, su registro incluye automáticamente las dimensiones genéticas y agroecológicas del lote con las cuales interactúa. Las consultas posteriores respetan la naturaleza geométrica: comparar dos lotes en Nebula Agtech no es comparar dos conjuntos de etiquetas, es comparar dos posiciones en el Digital Terroir.
+
+Una decisión arquitectónica específica vale la pena nombrar. Nebula Terra preserva no solo las variables capturadas sino también el contexto técnico de la captura: qué instrumento se usó, cuándo se calibró, quién operó el instrumento, qué condiciones ambientales había durante la captura. Esta preservación del contexto es parte de la honestidad técnica del marco: permite a consumidores y compradores serios evaluar no solo los datos sino también la calidad de la captura, distinguiendo entre datos capturados con disciplina técnica adecuada y datos cuya validez es cuestionable.
+
+#### 2.3 Cómo Nebula Terra se conecta con las otras capas del marco
+
+Nebula Terra no opera aisladamente. Se conecta técnicamente con las otras plataformas Nebula y con plataformas externas que respeten los principios del marco. La conexión se hace mediante identificadores únicos de lote coherentes con los principios de TraceOps articulados en el Capítulo 9, y mediante protocolos de interoperabilidad que permiten que la información del Digital Terroir generada por Nebula Agtech viaje coherentemente a Nebula Originblok para preservación a lo largo de la cadena.
+
+Vale la pena nombrar específicamente que Nebula Terra respeta el principio de soberanía de datos del Capítulo 10. El productor controla qué información se publica al consumidor, qué información se comparte con compradores específicos bajo qué términos, qué información se mantiene privada. La plataforma técnica implementa estos controles, no los promete declarativamente. La diferencia es estructural: en Nebula Agtech la soberanía es propiedad arquitectónica del sistema, no afirmación retórica del proveedor.
+
+> *Nebula Terra captura el origen del Digital Terroir respetando los cuatro principios arquitectónicos: forma natural de las dimensiones, preservación explícita de relaciones, consultas que respetan la naturaleza geométrica, y soberanía de datos como propiedad estructural del sistema.*
+
+#### 3. Nebula Fermentation: profundización en la dimensión fermentativa
+
+Nebula Fermentation es la plataforma especializada que profundiza en la dimensión fermentativa del Digital Terroir. Mientras Nebula Terra captura el origen completo del lote en sus múltiples dimensiones, Nebula Fermentation profundiza específicamente en la fermentación entendida como momento crítico donde múltiples dimensiones interactúan no linealmente con consecuencias significativas para el perfil sensorial final.
+
+#### 3.1 Por qué la fermentación merece plataforma especializada
+
+El Capítulo 5 del libro principal articuló que la fermentación es probablemente el momento más complejo y consecuente del proceso cacaotero. Es donde la interacción entre genética, microbioma, parámetros físico-químicos y decisiones técnicas determina, en buena medida, el perfil sensorial que el cacao eventualmente entregará al consumidor. La complejidad técnica de la fermentación justifica plataforma especializada que profundice en sus dimensiones específicas más allá de lo que una plataforma general de captura del origen puede hacer.
+
+Hay tres razones específicas que justifican la profundización. Primera: las variables fermentativas evolucionan en escalas temporales cortas (horas a días) que requieren captura más frecuente que la mayoría de las dimensiones agronómicas. Segunda: las interacciones no lineales entre variables fermentativas son particularmente complejas y merecen herramientas analíticas dedicadas. Tercera: el conocimiento técnico sobre fermentaciones específicas (anaeróbicas, lácticas, mucilage natural extendido, otros métodos emergentes) está evolucionando rápidamente y requiere plataforma que pueda incorporar nuevos protocolos sin requerir reingeniería completa.
+
+#### 3.2 Qué profundización ofrece Nebula Fermentation
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **IMPLEMENTACIÓN · Profundización específica de Nebula Fermentation**                                                                                                                                                                                                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Captura de alta resolución temporal: variables como pH, temperatura interna, oxígeno disuelto, conductividad capturadas con frecuencia adecuada a la dinámica fermentativa específica (típicamente cada 15-30 minutos para fermentaciones convencionales, más frecuente para protocolos específicos).                    |
+|                                                                                                                                                                                                                                                                                                                          |
+| Caracterización microbiológica cuando aplica: para operaciones que practican FermentOps Avanzado, captura de información sobre microbiomas específicos cuando se realizan análisis, incluyendo identificación de especies presentes, sucesión microbiana, y producción de metabolitos relevantes.                        |
+|                                                                                                                                                                                                                                                                                                                          |
+| Modelado del espacio fermentativo: a partir de muchos lotes capturados sistemáticamente, la plataforma construye representación del espacio fermentativo del origen específico, permitiendo identificar protocolos óptimos para distintos perfiles sensoriales objetivo.                                                 |
+|                                                                                                                                                                                                                                                                                                                          |
+| Recomendaciones técnicas en tiempo real: durante una fermentación en curso, la plataforma puede ofrecer recomendaciones técnicas (por ejemplo, momento óptimo de corte) basadas en la posición actual del lote en el espacio fermentativo y los protocolos asociados con perfiles sensoriales históricamente favorables. |
+|                                                                                                                                                                                                                                                                                                                          |
+| Vinculación con resultados sensoriales: cada fermentación documentada se vincula posteriormente con los resultados sensoriales que produjo, permitiendo construir modelo empírico de cómo decisiones fermentativas específicas se traducen en perfiles sensoriales específicos para el origen específico.                |
+|                                                                                                                                                                                                                                                                                                                          |
+| Soporte a protocolos emergentes: la arquitectura permite incorporar nuevos protocolos fermentativos sin requerir modificación estructural de la plataforma, reconociendo que el conocimiento técnico de la fermentación cacaotera está evolucionando rápidamente.                                                         |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 3.3 Cómo Nebula Fermentation contribuye al aprendizaje del sector
+
+Una contribución específica de Nebula Fermentation que merece reconocimiento es su rol en la construcción de conocimiento sectorial sobre fermentaciones cacaotero. Cuando muchos productores usan la plataforma con disciplina técnica adecuada y autorizan compartir información agregada (preservando la soberanía individual sobre los lotes específicos), emerge base de datos sectorial sobre fermentaciones que permite identificar patrones, evaluar protocolos emergentes, y orientar investigación futura.
+
+Esta dimensión sectorial es importante. La investigación cacaotera tradicional opera frecuentemente con muestras pequeñas y condiciones controladas que pueden no reflejar la diversidad del sector productivo real. Una plataforma que captura sistemáticamente fermentaciones de cientos de productores en muchas regiones produce evidencia empírica sobre el sector real, no sobre condiciones experimentales aproximadas. Esa evidencia puede orientar el desarrollo del marco completo en versiones futuras.
+
+La contribución sectorial respeta los principios de soberanía: ningún productor está obligado a compartir información agregada, y los términos en que cada productor autoriza el uso de su información son individuales y revocables. Lo que la plataforma facilita es la posibilidad de contribuir voluntariamente al conocimiento sectorial, no la obligación de hacerlo. La diferencia es estructural y preserva los principios del marco.
+
+> **Nebula Fermentation no es solo plataforma operacional para fermentaciones individuales. Es también infraestructura para la construcción de conocimiento sectorial sobre fermentaciones cacaotero, respetando la soberanía individual sobre los lotes específicos.**
+
+#### 4. Nebula Originblok: el Digital Terroir como espacio consultable
+
+Nebula Originblok es la plataforma que materializa el Digital Terroir como espacio multidimensional consultable a lo largo de la cadena del cacao fino de aroma. Es la implementación específica de TraceOps con principios de soberanía de datos del Capítulo 10, integrada con las dimensiones capturadas por Nebula Terra y Nebula Fermentation, y diseñada para que compradores institucionales, tostadores y consumidores finales puedan consultar la posición del lote en el Digital Terroir con el nivel de profundización apropiado a cada actor.
+
+#### 4.1 Funciones específicas de Nebula Originblok
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **IMPLEMENTACIÓN · Funciones específicas de Nebula Originblok**                                                                                                                                                                                                                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Preservación de la integridad técnica de la cadena: implementación de los cinco principios de la trazabilidad verificable del Capítulo 8, con mecanismos criptográficos que protegen la integridad de la información a lo largo de la cadena de custodia.                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Identificadores únicos de lote interoperables: cada lote en Nebula Originblok recibe identificador único coherente con los principios articulados en el Capítulo 9, interoperable con plataformas externas que respeten los estándares abiertos de identificación de lotes que el sector productivo está consolidando.                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Soberanía de datos del productor implementada estructuralmente: el productor controla qué información se publica al consumidor, qué información se comparte con compradores específicos, qué información se mantiene privada. Los controles son propiedad arquitectónica del sistema, no afirmación declarativa.                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Consultas geométricas al Digital Terroir: compradores y consumidores que consultan la plataforma pueden explorar la posición del lote en el espacio multidimensional, comparándola con otros lotes según las dimensiones relevantes para su pregunta específica.                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Tres niveles de información coherentes con el Capítulo 13: información esencial visible para todo consumidor, información técnica accesible para consumidores que quieren profundizar, información completa profundizable para consumidores especializados, compradores institucionales y auditores. Cada nivel respeta la soberanía del productor sobre qué dimensiones se publican. |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Comunicación de la dimensión humana: información sobre las personas cuyo trabajo produjo el lote, articulada según los principios de la capa humana del Capítulo 15, con respeto a la privacidad individual y consentimiento explícito sobre qué información se comparte.                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                       |
+| Mecanismos de verificación independiente: auditores externos pueden verificar la integridad de la información presentada en Nebula Originblok mediante mecanismos técnicos accesibles, no solo mediante confianza en el operador de la plataforma.                                                                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 4.2 Cómo Nebula Originblok materializa el Digital Terroir
+
+La materialización del Digital Terroir como espacio consultable distingue a Nebula Originblok de plataformas de trazabilidad tradicionales. Cuando un consumidor escanea el código de un cacao que usa Nebula Originblok, no accede a una página con etiquetas planas sobre el lote. Accede a una representación visual de la posición del lote en el espacio multidimensional del Digital Terroir, con capacidad de explorar las dimensiones específicas que le interesen y de comparar el lote con otros lotes que el productor o el tostador autorizan presentar.
+
+Esta visualización geométrica no es decoración técnica. Es la forma técnicamente correcta de comunicar al consumidor lo que el lote efectivamente es: posición específica en un espacio multidimensional, no colección de etiquetas. La diferencia es cualitativa, no solo cuantitativa. El consumidor que aprende a leer visualizaciones del Digital Terroir entiende intuitivamente las relaciones entre dimensiones que las etiquetas planas tradicionales solo podían comunicar verbalmente, frecuentemente sin que el consumidor pudiera apreciar las relaciones efectivas.
+
+La visualización se implementa en formatos accesibles sin formación técnica avanzada. Proyecciones bidimensionales o tridimensionales del espacio multidimensional con diferentes ejes según las preguntas específicas. Visualizaciones interactivas que permiten al consumidor explorar diferentes dimensiones. Comparaciones visuales con otros lotes del mismo origen, otros lotes con perfiles sensoriales similares, otros lotes con métodos de proceso comparables. Cada visualización respeta la naturaleza geométrica de la representación, no aplasta dimensiones a representaciones lineales.
+
+> *Nebula Originblok no presenta al consumidor una etiqueta enriquecida con datos. Presenta una posición específica en el Digital Terroir, navegable según las dimensiones que el consumidor quiera explorar. La diferencia es cualitativa, no solo cuantitativa.*
+
+#### 4.3 La integración de las tres plataformas Nebula
+
+Las tres plataformas Nebula —Terra, Fermentation, Originblok— se integran técnicamente para constituir implementación coherente del Digital Terroir geométrico. Nebula Terra captura las dimensiones del origen. Nebula Fermentation profundiza específicamente en la dimensión fermentativa. Nebula Originblok materializa el Digital Terroir como espacio consultable a lo largo de la cadena.
+
+La integración respeta los principios del marco. La interoperabilidad se hace mediante estándares abiertos, no mediante protocolos propietarios que generan dependencia. Otras plataformas que respeten los principios técnicos del marco pueden interoperar con Nebula tanto como Nebula puede interoperar con ellas. La diversidad de plataformas en el sector es virtud reconocida por el marco completo, no problema a ser resuelto mediante consolidación monopolística.
+
+Un actor del sector productivo puede usar las tres plataformas Nebula integradamente. También puede usar solo una y combinarla con plataformas externas que respeten los principios. También puede usar plataformas externas exclusivamente sin tocar Nebula. La elección es del actor según su contexto específico. Lo que el marco propone es que cualquier elección respete los principios técnicos, económicos y humanos articulados en las cinco partes del libro principal, no que una elección específica sea correcta y las demás incorrectas.
+
+#### 5. Decisiones importantes y limitaciones honestas
+
+La presentación de las plataformas Nebula como implementaciones de referencia merece honestidad sobre las decisiones que se tomaron durante su construcción y las limitaciones que reconocemos en ellas. Esta honestidad es coherente con los principios del marco completo, especialmente con el principio de la etiqueta como contrato técnico del Capítulo 13: una organización que escribe el marco y simultáneamente desarrolla plataformas debe poder reconocer las limitaciones de sus propias plataformas con la misma seriedad con que evalúa las de otros.
+
+#### 5.1 Decisiones específicas de la arquitectura
+
+Una decisión importante fue priorizar la apertura sobre la sofisticación técnica máxima. Nebula podría haberse construido con tecnología más sofisticada en algunas dimensiones, a cambio de generar dependencia tecnológica de proveedores específicos o de exigir capacidades técnicas que solo operaciones grandes podrían sostener. Decidimos consistentemente, durante la construcción, sacrificar sofisticación técnica máxima a cambio de apertura, interoperabilidad y accesibilidad para operaciones de distintas escalas.
+
+Otra decisión fue construir las plataformas con principios de soberanía de datos integrados estructuralmente desde el inicio, no añadidos posteriormente. Esta decisión generó costos arquitectónicos significativos: implementar soberanía estructural es más exigente técnicamente que implementarla declarativamente. Pero la coherencia con los principios del marco lo justificó.
+
+Una tercera decisión fue priorizar la interoperabilidad con plataformas externas sobre la captura monopólica de mercado. Nebula podría haberse construido con protocolos cerrados que generaran dependencia. Decidimos consistentemente diseñar para interoperabilidad mediante estándares abiertos, sacrificando posibles ventajas competitivas a corto plazo a cambio de coherencia con la filosofía abierta del marco completo.
+
+#### 5.2 Limitaciones reconocidas honestamente
+
+Las plataformas Nebula tienen limitaciones reales que merecen reconocimiento explícito en este apéndice. La cobertura geográfica de Nebula al momento de escribir este libro es significativamente menor que la cobertura ideal para el sector mundial; muchas regiones cacaotero importantes aún no tienen acceso a las plataformas en sus idiomas locales o con adaptaciones culturales apropiadas. Esta limitación es de capacidad institucional de Cafelium Foundation y no de diseño técnico, pero es real y reconocerla es honesto.
+
+La integración con plataformas externas, aunque arquitectónicamente posible, requiere trabajo técnico específico que no todas las plataformas externas han realizado. La interoperabilidad real, no solo la teórica, depende de coordinación entre actores que está en proceso de construcción y que tomará varios años para consolidarse en la escala que el sector necesita.
+
+La sofisticación de las visualizaciones del Digital Terroir en Nebula Originblok, aunque significativa, sigue siendo aproximación al ideal articulado conceptualmente. La construcción de visualizaciones que respeten plenamente la naturaleza geométrica multidimensional del cacao, en formatos accesibles para consumidores sin formación técnica, es trabajo que continúa evolucionando. Las versiones futuras de la plataforma incorporarán refinamientos basados en aprendizajes acumulados con usuarios reales.
+
+Y una limitación más estructural: las plataformas Nebula son construidas y mantenidas por una organización específica, Cafelium Foundation, con sus propios sesgos operacionales, sus propias áreas de excelencia y sus propias áreas de menor capacidad. La existencia de plataformas alternativas con principios análogos pero implementaciones distintas es deseable para el sector, no problema a ser resuelto. La concentración del sector en una sola plataforma, incluso una buena plataforma, sería resultado problemático que el marco no busca.
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **DIGITAL TERROIR · Limitaciones de las plataformas Nebula reconocidas honestamente**                                                                                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cobertura geográfica menor que la ideal: muchas regiones cacaotero importantes aún no tienen acceso a las plataformas en sus idiomas locales o adaptaciones culturales apropiadas.                  |
+|                                                                                                                                                                                                     |
+| Interoperabilidad con plataformas externas requiere trabajo técnico específico que está en proceso, no completado.                                                                                  |
+|                                                                                                                                                                                                     |
+| Sofisticación de visualizaciones del Digital Terroir sigue siendo aproximación al ideal conceptual; refinamientos futuros vendrán de aprendizajes con usuarios reales.                              |
+|                                                                                                                                                                                                     |
+| Sesgos operacionales de la organización constructora: Cafelium Foundation tiene sus propias áreas de excelencia y limitación, que se reflejan en las plataformas.                                   |
+|                                                                                                                                                                                                     |
+| La existencia de plataformas alternativas con principios análogos pero implementaciones distintas es deseable para el sector. La concentración en una sola plataforma sería resultado problemático. |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+> **Las limitaciones reconocidas en este apéndice son parte del compromiso de coherencia entre el marco que escribimos y las plataformas que desarrollamos. La transparencia sobre los límites de la propia obra es parte de la rigurosidad que el marco completo exige a todos los actores del sector.**
+
+#### 6. Invitación a implementaciones alternativas
+
+Este apéndice cierra con una invitación explícita que es coherente con los principios del marco. Las plataformas Nebula presentadas son implementaciones de referencia, no la implementación correcta. El sector cacaotero mundial se beneficiaría de la existencia de múltiples implementaciones del marco, con principios análogos pero arquitecturas, énfasis y modelos económicos distintos.
+
+La invitación es a actores del sector productivo —federaciones nacionales, organizaciones cooperativas regionales, equipos técnicos en países productores específicos— que consideren construir implementaciones alternativas del marco adaptadas a sus contextos específicos. Esto no es competencia con Nebula: es enriquecimiento del ecosistema del que Nebula es parte. Una región productora con plataforma técnica propia tiene autonomía estratégica que ninguna plataforma externa puede ofrecer, sin importar cuán bien construida esté.
+
+Cafelium Foundation está disponible para apoyar técnicamente a actores que construyan implementaciones alternativas. Compartir aprendizajes acumulados durante la construcción de Nebula. Colaborar en estándares de interoperabilidad. Articular implementaciones alternativas en una red más amplia de plataformas que respeten los principios del marco. Las formas específicas de colaboración son materia de conversación entre actores específicos, no de protocolos generales.
+
+La condición que pediremos siempre es coherencia con los principios del marco completo. Una implementación alternativa que comprometa la soberanía de datos del productor, que reproduzca dinámicas extractivas, que invisibilice las dimensiones humanas, no será reconocida como implementación coherente del marco aunque use vocabulario similar. Los principios son estructurales, no retóricos. Su preservación es lo que distingue implementaciones genuinas del marco de implementaciones que solo lo usan como recurso de marketing.
+
+> *Las plataformas Nebula son implementaciones de referencia, no la implementación correcta del marco. El sector se beneficiaría de la existencia de múltiples implementaciones con principios análogos pero arquitecturas, énfasis y modelos económicos distintos. La invitación a actores del sector productivo a construir alternativas es explícita y sostenida.*
+
+#### 7. Cierre del apéndice
+
+Este apéndice articuló el Digital Terroir como representación geométrica multidimensional del cacao, derivado de la naturaleza propia del cacao fino de aroma como sistema productivo donde múltiples dimensiones interactúan no linealmente entre sí. Y presentó las tres plataformas Nebula como implementaciones de referencia que materializan ese concepto técnico en sistemas operativos: Nebula Terra para la captura del origen, Nebula Fermentation para la profundización fermentativa, Nebula Originblok para el Digital Terroir como espacio consultable a lo largo de la cadena.
+
+La articulación del Digital Terroir como espacio multidimensional, fundamentada en la naturaleza propia del cacao, es probablemente uno de los aportes más significativos que este libro hace al sector cacaotero mundial. Es donde la filosofía del marco encuentra fundamento técnico que la distingue de propuestas anteriores sobre trazabilidad descriptiva. Y es donde las plataformas Nebula encuentran justificación arquitectónica que las distingue de plataformas de trazabilidad tradicionales construidas sobre representación lineal.
+
+Lo que este apéndice ofrece al lector es referencia sobre cómo el marco puede materializarse técnicamente. Lo que no ofrece, deliberadamente, es la pretensión de que las plataformas Nebula sean la implementación que el sector debe adoptar. CacaoOps es marco abierto. Nebula es una manera de implementarlo. Otras maneras son posibles, deseables y bienvenidas. El sector cacaotero mundial se construye con cooperación entre muchas implementaciones que comparten principios, no con consolidación de una sola que termine eclipsando a las demás.
+
+> *El sector cacaotero mundial se construye con cooperación entre muchas implementaciones que comparten principios, no con consolidación de una sola que termine eclipsando a las demás. Este apéndice presenta una manera de hacerlo, con la honestidad de reconocer que es una manera, no la manera.*
+
+*Cierre del Apéndice*
+
+### ---
+
+### GLOSARIO: Términos técnicos, siglas y conceptos del marco CacaoOps
+
+Este glosario consolida los términos técnicos, siglas y conceptos clave que el libro CacaoOps ha articulado a lo largo de sus dieciocho capítulos, epílogo y apéndice. Su propósito es ofrecer al lector herramienta de consulta permanente que facilite la lectura del libro y, posteriormente, la consulta puntual durante la implementación del marco en operaciones reales.
+
+La organización del glosario es alfabética. Cada entrada incluye el término, una definición concisa que captura el significado técnico operacional, y referencia al capítulo donde el término se desarrolla más extensamente. Los lectores que buscan profundización conceptual en un término específico pueden seguir la referencia al capítulo correspondiente, donde encontrarán contexto completo.
+
+Las definiciones del glosario son operacionales, no enciclopédicas. Buscan capturar lo que cada término significa específicamente dentro del marco CacaoOps, no lo que podría significar en otros contextos del sector cacaotero o de campos relacionados. Esta especificidad es deliberada: los términos del marco tienen significados precisos que se diluyen cuando se mezclan con usos generalistas.
+
+Algunos términos del glosario son neologismos del marco (CacaoOps, FermentOps, TraceOps, RoastOps, Digital Terroir, otros). Otros son términos del sector cacaotero general que el marco usa con sentidos específicos (trazabilidad verificable, prima estructural, soberanía de datos, otros). El glosario distingue, cuando es relevante, entre el sentido específico del marco y los sentidos generalistas que el lector pudiera encontrar en otras fuentes.
+
+Una nota sobre marcas y filosofía abierta. Algunos términos del glosario corresponden a marcas registradas de Cafelium Foundation bajo el régimen de Política de Marca de Filosofía Abierta articulado en el introducción. Estas marcas pueden referenciarse libremente con uso académico, periodístico y educativo. El uso comercial de las marcas requiere licencia con condiciones que se diseñan para servir al origen, no para extraer valor de él. Las entradas correspondientes a marcas registradas no se distinguen tipográficamente del resto: la coherencia visual del glosario respeta la naturaleza unitaria del marco.
+
+### A
+
+**Acceso a capital de trabajo**. Tercer mecanismo de la capa económica del marco. Conjunto de instrumentos financieros que permiten al productor evitar la presión de venta al inicio de cosecha y negociar mejores condiciones comerciales. Incluye préstamos prepactados con compradores, cooperativas de ahorro y crédito del sector productivo, fondos de inversión especializados, crédito basado en documentación técnica, pago anticipado por documentación, microcrédito rural especializado. *· Capítulo 14*
+
+**Acceso a información de mercado**. Segundo mecanismo de la capa económica del marco. Construcción institucional de capacidades del sector productivo para acceder a información sobre precios comparables, tendencias de demanda, información sobre compradores específicos, costos de cumplimiento regulatorio y tendencias de transformación del sector. Reduce parcialmente la asimetría informativa que reproduce la distribución desfavorable del valor. *· Capítulo 14*
+
+**Anti-patrones de etiquetas**. Cinco prácticas problemáticas frecuentes en etiquetas del sector especializado: claims genéricos sin contenido técnico (\"premium\", \"artesanal\"), narrativa emotiva sustitutiva, fecha de tueste sin compromiso de frescura, puntajes de cata de licor sin contexto metodológico, y trazabilidad simulada (códigos QR que llevan a páginas descriptivas sin verificabilidad). *· Capítulo 13*
+
+**Apertura del marco**. Compromiso institucional de Cafelium Foundation con que CacaoOps esté disponible para que cualquier actor del sector productivo lo adopte, adapte y mejore sin pagos a la fundación. La apertura es estructural, no retórica: las marcas del marco operan bajo Política de Marca de Filosofía Abierta que permite uso académico, periodístico y educativo libre. *· introducción*
+
+**Asimetría de capital y crédito**. Tercera de las cuatro asimetrías estructurales del sector cacaotero. Los productores tienen acceso limitado a capital de trabajo, lo que los obliga a vender en momentos desfavorables; los actores institucionales del consumo pueden esperar mejores condiciones desde posiciones de fortaleza temporal. *· Capítulo 14*
+
+**Asimetría de información**. Primera de las cuatro asimetrías estructurales. Los actores institucionales del consumo tienen acceso a información de mercado, comparables y dinámicas que los productores típicamente no tienen, lo que se traduce en asimetría negociadora. *· Capítulo 14*
+
+**Asimetría de poder organizativo**. Segunda asimetría estructural. Los actores del consumo están mejor organizados en asociaciones, redes de coordinación e instituciones que los productores típicamente. La distancia geográfica entre productores, las diferencias de idioma, los desafíos de comunicación rural, todos reducen la capacidad de actuar coordinadamente. *· Capítulo 14*
+
+**Asimetría regulatoria**. Cuarta asimetría estructural. Las regulaciones internacionales del sector cacaotero son típicamente diseñadas en mercados consumidores; el costo de cumplimiento recae predominantemente en el origen pero los beneficios de mercado se capturan en el consumo. *· Capítulo 14*
+
+### B
+
+**Banco de datos colectivo**. Estructura institucional donde los datos generados por muchos productores se agregan bajo control de organizaciones del sector productivo. Permite análisis de comparaciones de precios, identificación de tendencias, detección temprana de presiones comerciales. Respeta soberanía individual sobre lotes específicos. *· Capítulo 10*
+
+**Beneficio centralizado**. Infraestructura del sector productivo donde se realizan los procesos post-cosecha (apertura de la mazorca, extracción del grano con pulpa, fermentación, volteos, secado) para múltiples productores. Frecuentemente operado por cooperativas. Punto crítico para la implementación de FermentOps en escalas que un productor individual no podría sostener. *· Capítulo 5*
+
+**Biblioteca de curvas**. Activo más valioso del tostador maduro que practica RoastOps. Conjunto archivado y consultable de curvas térmicas de muchos tueste, organizadas con metadatos completos (lote, perfil objetivo, operario, fecha, observaciones, resultados sensoriales) que permite identificar patrones, comparar resultados y construir conocimiento técnico acumulativo. *· Capítulo 12*
+
+### C
+
+**CacaoOps**. Adaptación emergente del marco CacaoOps al sector cacaotero. Las dinámicas estructurales del cacao son análogas a las del cacao aunque con especificidades técnicas propias. Mencionado en el epílogo como ejemplo de la generalización natural de los principios del marco a sectores hermanos. *· Epílogo*
+
+**Cadena de custodia documentada**. Documentación verificable de las transferencias del lote entre actores de la cadena, desde el origen hasta el destino final. Componente central de TraceOps que distingue trazabilidad descriptiva de trazabilidad verificable. *· Capítulo 8*
+
+**CacaoOps (Coffee Operating System)**. Marco completo articulado en este libro. Sistema técnico, económico, humano y cooperativo que integra cuatro capas operacionales (FermentOps, TraceOps, RoastOps, etiqueta como contrato técnico) con una capa económica, una capa humana y una dimensión de cooperación regional. Diseñado para que el valor del cacao fino de aroma regrese al origen que lo produce. Marco abierto bajo Política de Marca de Filosofía Abierta. *· Todo el libro*
+
+**Cacaocultor**. Actor central del sector productivo cacaotero que opera una finca cacaotera, sea propietario, copropietario familiar, o miembro activo de una cooperativa. El término se capitaliza siempre en el libro como reconocimiento explícito de su rol fundamental. La capitalización no implica que sea el único actor humano del origen: el Capítulo 15 articula la diversidad de actores humanos del sector productivo. *· Todo el libro*
+
+**Cafelium Foundation**. Organización del sector productivo cacaotero que escribió este libro y que promueve el marco CacaoOps. Opera con compromisos explícitos de servicio al origen, apertura del marco, transparencia operacional, Programa Semillas, independencia financiera del consumo, y articulación complementaria con otras organizaciones del sector productivo. No es actor comercial del sector; es organización articuladora. *· Capítulos 0, 16, 18*
+
+**Capa económica**. Quinta dimensión del marco completo. Conjunto de cinco mecanismos complementarios que abordan las cuatro asimetrías estructurales del sector cacaotero para que el valor que el marco genera regrese al origen: primas estructurales documentadas, acceso a información de mercado, acceso a capital de trabajo, distribución de costos de cumplimiento regulatorio, participación del origen en valor agregado posterior. *· Capítulo 14*
+
+**Capa humana**. Sexta dimensión del marco completo. Reconocimiento explícito de que detrás de cada lote técnicamente documentado hay personas concretas cuya dignidad es la razón última del marco. Cinco principios humanos: visibilidad de todos los actores, compensación digna sostenida, condiciones de trabajo seguras, protección a quienes enfrentan vulnerabilidades adicionales, voz y agencia de los trabajadores. *· Capítulo 15*
+
+**Captura del marco**. Riesgo estructural de que CacaoOps sea apropiado por actores institucionales del consumo y reorientado para servir a sus intereses, perdiendo su orientación original al sector productivo. La protección requiere vigilancia sostenida del sector productivo organizado y construcción deliberada de gobernanza colectiva del marco. *· Capítulo 17*
+
+**Cata profesional de licor documentada**. Evaluación sensorial sistemática del cacao por catador de licor certificado o panel calificado, con metodología estandarizada (típicamente ICCO/WCF Cupping Protocol), documentación de fecha, frescura del lote al momento de la cata de licor, descriptores específicos y puntaje numérico defendible. Componente esencial de la etiqueta como contrato técnico. *· Capítulo 13*
+
+**Claims genéricos**. Afirmaciones de etiqueta sin contenido técnico defendible: \"cuidadosamente seleccionado\", \"premium\", \"de alta calidad\", \"artesanal\", \"exclusivo\", \"de origen único\". Anti-patrón fundamental que el marco propone reemplazar por afirmaciones específicas verificables. *· Capítulo 13*
+
+**ClimaOps**. Capa que el marco propone como evolución futura para abordar la dimensión climática con la misma seriedad técnica de las cuatro capas operacionales actuales. Mencionado en el epílogo como reconocimiento de los límites del marco actual. *· Epílogo*
+
+**Código QR de etiqueta**. Mecanismo digital que vincula la tableta física en mano del consumidor con la documentación completa del lote archivada digitalmente. Cuando se implementa con los principios técnicos del marco, es el último eslabón técnico de la cadena coherente. Cuando se implementa sin esos principios, puede ser trazabilidad simulada (anti-patrón). *· Capítulos 9, 13*
+
+**Compradores institucionales serios**. Actores del lado del consumo —importadores especializados, tostadores comprometidos con coherencia técnica, programas de comercio directo— que valoran explícitamente la documentación técnica del marco y están dispuestos a pagar primas estructurales por ella. Audiencia natural de las primas estructurales. *· Capítulo 7*
+
+**Comunidades indígenas en el sector**. Actores del sector productivo que merecen tratamiento específico en la capa humana. Principio rector del trabajo con ellas: consentimiento previo, libre e informado en todas las dimensiones. Reconocimiento del valor cultural y técnico aportado, protección contra apropiación cultural, comunicación en idioma de la comunidad cuando sea relevante. *· Capítulo 15*
+
+**Conexión documental**. Primera de las tres conexiones entre RoastOps y la información de origen. El código TraceOps que viaja con el cacao se transfiere a todos los registros internos del tostador. Cada tableta tostada que sale al mercado lleva referencia trazable al origen. *· Capítulo 12*
+
+**Conexión narrativa**. Tercera conexión RoastOps-origen. La comunicación al consumidor integra origen y tueste con la misma seriedad técnica, sin que la dimensión emotiva sustituya a la información técnica. *· Capítulo 12*
+
+**Conexión técnica**. Segunda conexión RoastOps-origen. La información sobre la fermentación específica del lote influye en el perfil objetivo del tueste. Cacaos con fermentaciones intensas requieren ajustes específicos de tueste. *· Capítulo 12*
+
+**Consentimiento previo, libre e informado**. Principio fundamental del trabajo con comunidades indígenas en el sector. Implementación previa a la captura de información, libre de presiones, e informada sobre los usos específicos. Aplicable también a otros actores del sector productivo, especialmente en relaciones donde hay asimetrías de poder significativas. *· Capítulo 15*
+
+**Cooperación regional**. Séptima dimensión del marco completo. Articulación entre actores del sector productivo en cinco niveles (local, cooperativo, federativo nacional, regional internacional, global) que multiplica el efecto del marco más allá de lo que cada operación individual puede lograr aisladamente. *· Capítulo 16*
+
+**Cooperativa cacaotera**. Estructura formal del sector productivo donde Cacaocultores se asocian colectivamente. Funciones críticas: comercialización conjunta, servicios técnicos compartidos, representación institucional, distribución de excedentes, mutualización de riesgos, gobernanza democrática. *· Capítulo 16*
+
+**Costos de cumplimiento regulatorio**. Costos en cuatro categorías: directos de implementación (instrumentos, software, capacitación), operacionales recurrentes, auditoría y certificación, indirectos de oportunidad. Pueden representar entre 3% y 12% de los ingresos operacionales del origen. Su distribución simétrica entre actores de la cadena es el cuarto mecanismo de la capa económica. *· Capítulo 14*
+
+**Curva firma del establecimiento**. Para cada cacao que se tuesta regularmente, curva específica que representa el tueste \"ideal\" del establecimiento, identificada por análisis de tueste exitosos acumulados, validada por cata profesional de licor repetida. No es protocolo rígido sino zona de progresión esperada con límites superior e inferior. *· Capítulo 12*
+
+**Curva fermentativa**. Serie temporal completa de las variables fermentativas (pH, temperatura, oxígeno disuelto, conductividad cuando aplica) capturadas durante el proceso. Componente central de FermentOps Intermedio y Avanzado. *· Capítulo 5*
+
+**Curva térmica del tueste**. Registro temporal completo de la temperatura del grano y del aire durante el proceso de tueste. Núcleo documental de RoastOps. Permite identificar las cuatro fases del tueste, calcular ROR por fase, y comparar con perfiles objetivo. *· Capítulo 11*
+
+### D
+
+**Digital Terroir**. Filosofía fundacional de CacaoOps establecida en el introducción. Reconocimiento del cacao como espacio multidimensional irreducible donde se entrecruzan dimensiones biológicas, culturales, económicas, humanas, climáticas e históricas. En el apéndice se articula técnicamente como variedad geométrica multidimensional, inspirada conceptualmente en investigación reciente sobre neural geometry. Cada lote es posición específica en esa variedad, no etiqueta plana. *· introducción, Apéndice*
+
+**Disciplina de calibración**. Conjunto de prácticas para mantener la precisión de los instrumentos del marco a lo largo del tiempo. Verificación periódica de sondas térmicas, calibración de colorímetros, mantenimiento de cuaderno de calibraciones. Sin calibración sostenida, los datos capturados pierden validez técnica. *· Capítulos 6, 12*
+
+**Distribución de costos regulatorios**. Cuarto mecanismo de la capa económica. Conjunto de prácticas que reparten los costos crecientes de cumplimiento regulatorio entre los actores de la cadena, en lugar de que recaigan exclusivamente en el origen. Incluye cláusulas contractuales explícitas, fondos colectivos, programas conjuntos comprador-origen, subsidios de programas de desarrollo, plataformas compartidas de cumplimiento. *· Capítulo 14*
+
+**Documentación laboral**. Captura sistemática de las dimensiones laborales clave de la operación: composición de fuerza laboral por temporada, salarios efectivamente pagados (rangos, no individualizados), beneficios formales, inversiones en seguridad ocupacional, condiciones de vivienda, composición de género, mecanismos de voz y queja. Traducción al ámbito humano de la lógica de gobernanza con datos del marco. *· Capítulo 15*
+
+**Dossier técnico del lote**. Documento estructurado que un origen presenta a compradores institucionales serios para sostener primas estructurales. Integra información de FermentOps, TraceOps, RoastOps cuando aplique, datos sensoriales con metodología, dimensiones humanas. Es la herramienta operacional concreta para la comunicación técnica entre origen y comprador. *· Capítulo 7*
+
+### E
+
+**Educación del consumidor**. Responsabilidad colectiva del sector que el marco identifica como crítica. No se trata de transformar a cada consumidor en catador de licor profesional, sino de que tenga herramientas conceptuales para distinguir entre afirmaciones específicas y claims genéricos, entre información verificable y narrativa, entre trazabilidad técnica y trazabilidad simulada. Tres preguntas básicas: ¿específicas o genéricas? ¿se puede verificar? ¿reconoce lo que no sabe? *· Capítulo 13*
+
+**Equidad de género en el sector cacaotero**. Dimensión específica de la capa humana. Aborda patrones estructurales: acceso inequitativo a propiedad de tierra, doble jornada (cacaotero + doméstico), baja representación en posiciones de decisión. Compromisos: paridad salarial, reconocimiento de trabajo en operaciones familiares, programas de desarrollo de capacidades para mujeres, mecanismos contra acoso, apoyo a representación. *· Capítulo 15*
+
+**Etiqueta como contrato técnico**. Decimotercera capa del marco. La etiqueta entendida no como mensaje de marketing sino como contrato técnico entre el conjunto de la cadena y el consumidor. Cinco principios: coherencia con la cadena, verificabilidad, especificidad calibrada, profundización opcional, honestidad sobre lo que no se sabe. Tres niveles de información: esencial visible, técnica accesible, completa profundizable. *· Capítulo 13*
+
+**Evidencia técnica documentada**. Conjunto de datos capturados sistemáticamente que sostiene técnicamente lo que el origen afirma. Cinco propiedades: trazabilidad inversa, especificidad apropiada, coherencia interna, distinción entre dato y valoración, acceso a profundidad. Diferenciador estructural respecto a afirmaciones del origen sin documentación que las respalde. *· Capítulo 7*
+
+### F
+
+**Federación nacional del sector productivo**. Estructura que articula a las cooperativas y otros actores del sector productivo de un mismo país en una voz colectiva. Funciones críticas: representación ante autoridades nacionales, negociación de políticas públicas, representación internacional, articulación con federaciones de otros países, construcción y mantenimiento de bienes colectivos a escala nacional. *· Capítulo 16*
+
+**FermentOps**. Primera capa operacional del marco. Sistema documentable de la fermentación cacaotera con tres niveles: Esencial (variables básicas con instrumentos accesibles), Intermedio (variables ampliadas con software de captura), Avanzado (caracterización microbiológica completa). Implementable desde operaciones pequeñas hasta grandes según escala apropiada. *· Capítulos 5-7*
+
+**FermentOps Avanzado**. Tercer nivel de FermentOps. Incluye caracterización microbiológica del lote: identificación de especies presentes en la fermentación, sucesión microbiana, producción de metabolitos relevantes. Requiere capacidades técnicas significativamente mayores y se justifica típicamente solo para lotes excepcionales o para investigación del sector. *· Capítulo 5*
+
+**FermentOps Esencial**. Primer nivel de FermentOps. Captura de variables básicas con instrumentos accesibles: pH, temperatura interna, duración de la fermentación, observaciones sensoriales del proceso. Inversión típica entre 200 y 800 USD. Punto de entrada al marco para la mayoría de operaciones del sector productivo. *· Capítulos 5, 6*
+
+**FermentOps Intermedio**. Segundo nivel de FermentOps. Incluye captura de oxígeno disuelto, conductividad, y software especializado de registro automático. Inversión típica entre 1.500 y 5.000 USD. Apropiado para operaciones medianas y grandes con compradores institucionales serios. *· Capítulo 5*
+
+### G
+
+**Generación que viene al sector**. Reversión del envejecimiento de la fuerza laboral cacaotera proyectada para 2035 si el marco se implementa a escala. Jóvenes con educación formal entrando al sector como responsables técnicos, gerentes de cooperativas, profesionales del beneficio, especialistas en TraceOps. No por discurso nostálgico, sino por transformación real de las condiciones que hacen al sector atractivo. *· Capítulo 17*
+
+**Geometría neural (neural geometry)**. Fenómeno técnicamente documentado por investigaciones recientes en interpretabilidad de modelos de inteligencia artificial. Las representaciones internas de modelos entrenados sobre datos del mundo desarrollan geometrías estructuradas específicas que recapitulan la estructura del mundo modelado. Inspiración conceptual reconocida explícitamente para el fundamento técnico del Digital Terroir como variedad geométrica multidimensional. *· Apéndice*
+
+**Gobernanza con datos**. Práctica de tomar decisiones operacionales basadas en información capturada sistemáticamente, no en intuición no documentada. Lógica fundamental que organiza el marco completo: las cuatro capas operacionales, la capa económica y la capa humana son todas implementaciones específicas de gobernanza con datos en sus dimensiones respectivas. *· Todo el libro*
+
+### H
+
+**Hitos del tueste**. Cuatro momentos identificables durante el tueste con temperaturas y tiempos específicos: fin de secado, primer crack, descarga, fin de enfriamiento. Permiten estructurar la captura de RoastOps y comparar tueste entre sí. *· Capítulo 11*
+
+**Honestidad sobre lo que no se sabe**. Quinto principio de la etiqueta como contrato técnico. Cuando hay aspectos del lote no completamente documentados o verificados, la etiqueta lo reconoce explícitamente en lugar de simular conocimiento que no se tiene. Marcador paradójico de seriedad técnica. *· Capítulo 13*
+
+### I
+
+**Identificador único de lote**. Código alfanumérico que vincula físicamente al lote en cualquier eslabón de la cadena con su documentación completa archivada digitalmente. Pieza arquitectónica central de TraceOps. Estructura recomendada: país-región-finca-cosecha-método-lote-versión. *· Capítulo 9*
+
+**Implementaciones de referencia**. Las plataformas Nebula presentadas en el Apéndice (Nebula Terra, Nebula Fermentation, Nebula Originblok). Implementaciones específicas del marco, no la implementación correcta. CacaoOps es marco abierto que admite múltiples implementaciones complementarias con principios análogos pero arquitecturas distintas. *· Apéndice*
+
+**Integridad técnica de la cadena**. Propiedad que la información del lote preserva su validez técnica a lo largo de las transferencias entre actores de la cadena. Garantizada por mecanismos criptográficos cuando se implementa con seriedad. Distingue trazabilidad verificable de trazabilidad descriptiva. *· Capítulos 8, 9*
+
+### L
+
+**Lente de decisión**. Recurso pedagógico que aparece al final de cada capítulo del libro. Conjunto de seis preguntas duras que permiten al lector evaluar honestamente su propia situación respecto a los conceptos del capítulo. No tiene respuestas correctas: tiene preguntas que merecen examen honesto. *· Todos los capítulos*
+
+### M
+
+**Marca compartida**. Modelo emergente de participación del origen en valor agregado posterior. Cacaos vendidos al consumidor bajo marca conjunta entre origen y tostador, con acuerdos formales de distribución del valor de la marca compartida. Quinto mecanismo de la capa económica. *· Capítulo 14*
+
+**Memoria operacional acumulada**. Activo institucional del origen que practica el marco durante varios años. Registros documentados de fermentaciones, decisiones técnicas, resultados sensoriales, condiciones específicas, que permiten al productor identificar patrones, comparar entre temporadas, defender técnicamente sus prácticas, y transmitir conocimiento a la siguiente generación. *· Capítulos 6, 17*
+
+### N
+
+**Nebula Terra**. Plataforma de implementación de referencia que captura las dimensiones del Digital Terroir generadas en el origen: dimensiones biológicas, agronómicas, climáticas y operacionales del lote desde la planta hasta la entrega del cacao seco al beneficio. Implementación específica de FermentOps integrada con dimensiones agronómicas adicionales. Respeta los cuatro principios arquitectónicos del Digital Terroir geométrico. *· Apéndice*
+
+**Nebula Fermentation**. Plataforma especializada que profundiza en la dimensión fermentativa del Digital Terroir como subvariedad crítica. Captura de alta resolución temporal de variables fermentativas, caracterización microbiológica cuando aplica, modelado de la subvariedad fermentativa, recomendaciones técnicas en tiempo real, vinculación con resultados sensoriales, soporte a protocolos emergentes. *· Apéndice*
+
+**Nebula Originblok**. Plataforma que materializa el Digital Terroir como espacio geométrico multidimensional consultable a lo largo de la cadena. Implementación específica de TraceOps con principios de soberanía de datos. Presenta al consumidor visualizaciones geométricas de la posición del lote en la variedad multidimensional, no etiquetas planas con datos. *· Apéndice*
+
+### O
+
+**Origen**. Término fundamental del marco. No solo el país o región productora del cacao, sino el conjunto completo de personas, prácticas, tradiciones, dimensiones biológicas y conocimientos que producen el cacao fino de aroma. La frase \"el valor regresa al origen\" se refiere a este sentido amplio, no solamente al precio pagado al productor propietario. *· Todo el libro*
+
+### P
+
+**Participación del origen en valor agregado posterior**. Quinto mecanismo de la capa económica. Modelos emergentes que permiten al sector productivo participar económicamente en el valor agregado más allá del precio del cacao seco: participación accionaria en operaciones de tueste/importación/retail, marcas compartidas, regalías por documentación, cooperativas internacionales, participación en fondos de desarrollo. *· Capítulo 14*
+
+**Perfil objetivo escrito**. Documento de una página con seis elementos esenciales para cada cacao que el tostador trabaja regularmente: identificación del cacao, carga objetivo, hitos térmicos objetivo, hitos temporales objetivo, ROR por fase, criterios de descarga. Sin perfil objetivo escrito, RoastOps queda en intuición no documentada. *· Capítulo 12*
+
+**Plataforma técnica compartida**. Sistema digital que muchas operaciones del sector productivo pueden usar, con costos de desarrollo distribuidos, principios de soberanía de datos respetados, e interoperabilidad. Tres principios irrenunciables: soberanía de datos respetada, gobernanza colectiva, sostenibilidad financiera transparente. *· Capítulo 16*
+
+**Política de Marca de Filosofía Abierta (PMFA)**. Régimen de gestión de las marcas registradas de Cafelium Foundation. Tres niveles: filosofía abierta (referencia conceptual libre), uso académico/periodístico/educativo (sin permiso, con atribución), uso comercial (licencia con condiciones que sirven al origen). Aplicable a CacaoOps, FermentOps, TraceOps, RoastOps, Digital Terroir. *· introducción*
+
+**Prima estructural documentada**. Primer mecanismo de la capa económica. Sobreprecio recurrente y sostenido en el tiempo, basado en capacidades técnicas documentadas que diferencian estructuralmente a la operación. Magnitud típica: 15-40% sobre precios pre-marco, con casos excepcionales superiores al 50%. Defendible ante presiones de mercado. *· Capítulo 14*
+
+**Prima táctica**. Sobreprecio puntual de un lote excepcional en un momento específico (microlote ganador de competencia, cacao con perfil único, temporada de oferta limitada). Episódica por naturaleza. No constituye ingreso base sostenible. Distinción importante respecto a prima estructural. *· Capítulo 14*
+
+**Programa Semillas**. Programa específico de Cafelium Foundation que canaliza una proporción definida de los excedentes de la organización al apoyo de familias cacaocultoras vulnerables. Estructura, criterios de selección y mecanismos de operación son públicamente verificables. Coherencia entre los principios que el marco propone y los recursos efectivamente comprometidos al origen. *· Capítulo 16*
+
+**Protocolos emergentes de fermentación**. Conjunto en evolución de métodos fermentativos del cacao fino de aroma: anaeróbicos con duraciones específicas, lácticos, mucilage natural extendido, otros métodos en desarrollo. La arquitectura de Nebula Fermentation permite incorporar nuevos protocolos sin reingeniería estructural, reconociendo que el conocimiento técnico está evolucionando rápidamente. *· Capítulo 5, Apéndice*
+
+**Punto de riesgo**. Caja visual que aparece a lo largo del libro para señalar dimensiones donde la implementación enfrenta vulnerabilidades específicas. Coherente con el principio de honestidad sobre límites del marco. *· Múltiples capítulos*
+
+### R
+
+**Regalías por documentación**. Modelo emergente del quinto mecanismo de la capa económica. Acuerdos comerciales donde el origen recibe regalías recurrentes por la información técnica que su documentación proporciona al tostador o retailer. Reconoce económicamente que la documentación técnica del marco es activo de información, no solo costo operacional. *· Capítulo 14*
+
+**Regulaciones internacionales del sector**. Marco regulatorio en evolución rápida que afecta al sector cacaotero mundial: regulación europea sobre productos libres de deforestación, exigencias norteamericanas sobre claims de sostenibilidad, regulaciones sobre claims sensoriales y de origen. Convergencia hacia exigencias de verificabilidad que las prácticas tradicionales no satisfacen. *· Capítulos 8, 13, 17*
+
+**Responsable de tueste**. Rol técnico clave de la operación que practica RoastOps. Domina protocolos completos, calibra instrumentos, define perfiles objetivo, interpreta curvas en tiempo real, toma decisiones técnicas. Idealmente con suplente entrenado para no depender críticamente de una sola persona. *· Capítulo 12*
+
+**RoastOps**. Tercera capa operacional del marco. Sistema documentable del tueste con tres niveles: Esencial (curva térmica básica con instrumentos accesibles), Intermedio (software especializado con análisis comparativo), y prácticas avanzadas. Aborda directamente la asimetría documental histórica entre origen y tueste. *· Capítulos 11-12*
+
+**ROR (Rate of Rise)**. Tasa de cambio de la temperatura del grano durante el tueste. Probablemente el indicador más informativo durante el proceso para saber si el tueste va según lo previsto. ROR objetivo por fase es uno de los seis elementos del perfil objetivo escrito. *· Capítulo 11*
+
+### S
+
+**ICCO/WCF (Fundación Mundial del Cacao (WCF) y la Organización Internacional del Cacao (ICCO))**. Asociación profesional internacional del sector cacaotero especializado. Su white paper sobre trabajadores cacaoteros es referencia explícitamente reconocida como antecedente del Capítulo 15 sobre la capa humana. La capa humana de CacaoOps complementa el trabajo del ICCO/WCF traduciéndolo en mecanismos operacionales específicos. *· Capítulo 15*
+
+**ICCO/WCF Cupping Protocol**. Metodología estandarizada de cata profesional de licor del cacao fino de aroma. Cuando se cita en etiquetas o dossieres técnicos, debe acompañarse de información sobre catador de licor o panel responsable, fecha, frescura del lote al momento de la cata de licor, descriptores específicos. *· Capítulo 13*
+
+**Soberanía de datos del productor**. Principio fundamental del marco. El productor controla qué información sobre su trabajo se publica al consumidor, qué se comparte con compradores específicos bajo qué términos, qué se mantiene privada. Implementada estructuralmente en plataformas técnicas, no afirmada declarativamente. Distingue plataformas que sirven al origen de plataformas con dinámicas extractivas. *· Capítulo 10*
+
+**Subvariedad fermentativa**. Concepto del Digital Terroir geométrico aplicado específicamente a la fermentación. Subespacio dentro de la variedad multidimensional completa donde se concentran las dimensiones fermentativas y sus interacciones no lineales con genética, parámetros físico-químicos y decisiones técnicas. Corazón de Nebula Fermentation. *· Apéndice*
+
+### T
+
+**Trabajador agrícola permanente**. Persona empleada durante todo el año en la operación cacaotera, frecuentemente con relación laboral establecida pero no siempre con contratos formales o protecciones laborales completas. Actor fundamental del sector productivo cuya visibilidad la capa humana del marco reivindica. *· Capítulo 15*
+
+**Trabajador migrante en el sector**. Persona que cruza fronteras —entre países productores o desde países sin producción cacaotera relevante— para trabajar en cosechas. Enfrenta vulnerabilidades específicas: estatus migratorio formal o informal, distancia respecto a redes de soporte, barreras lingüísticas, dependencia económica respecto al empleador específico. Atención específica en la capa humana. *· Capítulo 15*
+
+**Trabajador temporal o jornalero**. Persona contratada durante períodos específicos, especialmente la cosecha. Frecuentemente se desplaza entre operaciones, regiones e incluso países siguiendo ciclos productivos. Una proporción significativa del trabajo cacaotero mundial se realiza en esta modalidad, con frecuencia sin beneficios laborales formales. *· Capítulo 15*
+
+**Trabajo infantil en el sector**. Realidad documentada en múltiples regiones productoras. El marco distingue claramente entre formas inaceptables (trabajo peligroso, que impide educación, en condiciones explotadoras) y formas culturales legítimas (trabajo familiar ligero que no interfiere con educación, salud, descanso). Las formas inaceptables son inadmisibles en operaciones que practican el marco. *· Capítulo 15*
+
+**TraceOps**. Segunda capa operacional del marco. Sistema de trazabilidad verificable del lote a lo largo de la cadena. Cinco principios: identificación única, integridad criptográfica, soberanía del productor, granularidad apropiada, verificabilidad independiente. Distingue trazabilidad verificable de trazabilidad descriptiva. *· Capítulos 8-10*
+
+**Trazabilidad descriptiva**. Información sobre el lote que existe en formato comunicable, frecuentemente bien diseñada visualmente, pero sin mecanismos técnicos que la sostengan más allá de la confianza en el actor que la emite. Modelo predominante histórico del sector. El marco propone superarla con trazabilidad verificable. *· Capítulo 8*
+
+**Trazabilidad simulada**. Quinto anti-patrón de etiquetas. Códigos QR que llevan a páginas web del tostador con información detallada pero sin verificabilidad técnica. Visualmente comunican que la cadena está documentada, pero estructuralmente son trazabilidad descriptiva en formato digital. Especialmente problemática porque crea falsa sensación de robustez técnica. *· Capítulo 13*
+
+**Trazabilidad verificable**. Información sobre el lote que cumple los cinco principios de TraceOps: identificación única, integridad criptográfica preservada a lo largo de la cadena, soberanía del productor, granularidad apropiada al nivel de implementación, verificabilidad por auditores independientes. Distinción cualitativa respecto a trazabilidad descriptiva. *· Capítulo 8*
+
+**Tres niveles de información en etiquetas**. Arquitectura de información de la etiqueta como contrato técnico. Nivel 1: información esencial visible (identificación, variedad, notas, fecha de tueste, identificador único). Nivel 2: información técnica accesible (origen detallado, proceso con decisiones, perfil del tueste, datos sensoriales con metodología). Nivel 3: información completa profundizable accesible vía mecanismo digital. *· Capítulo 13*
+
+**Tueste gobernado**. Tueste donde las decisiones técnicas se toman con base en datos capturados sistemáticamente, perfiles objetivo escritos, y biblioteca de curvas archivada. Distinción cualitativa respecto a tueste por intuición no documentada. Núcleo conceptual de RoastOps. *· Capítulo 11*
+
+### V
+
+**Variedad geométrica multidimensional**. Forma técnicamente correcta de representar el cacao fino de aroma según el fundamento conceptual del Digital Terroir articulado en el Apéndice. Cada lote es posición específica en variedad multidimensional donde múltiples dimensiones técnicas, económicas y humanas interactúan no linealmente entre sí. Inspirado conceptualmente en investigación sobre neural geometry. *· Apéndice*
+
+**Verificabilidad**. Segundo principio de la etiqueta como contrato técnico. Cada afirmación específica de la etiqueta puede verificarse independientemente por consumidor o auditor que decida hacerlo. Mecanismos de verificación accesibles, no teóricos. Distingue contratos técnicos genuinos de marketing con apariencia técnica. *· Capítulo 13*
+
+**VidOps**. Adaptación emergente del marco al sector vitivinícola. Mencionado en el epílogo como ejemplo de la generalización natural de los principios del marco a sectores hermanos. Las tradiciones documentales del vino —denominaciones de origen, regulaciones específicas, vocabulario técnico maduro— ofrecen base sobre la cual integrar las dimensiones que el sector ha desarrollado menos sistemáticamente. *· Epílogo*
+
+**Visibilidad de todos los actores**. Primer principio humano del marco. Las narrativas y comunicaciones de la operación reconocen explícitamente a todos los actores humanos cuyo trabajo contribuye al producto, no solo a los Cacaocultores propietarios. Precondición ética para que las demás dimensiones de la dignidad puedan abordarse. *· Capítulo 15*
+
+**Visión 2035**. Proyección estructural de cómo se vería el sector cacaotero mundial si el marco se implementa a la escala necesaria durante la próxima década. No predicción ni utopía: prospectiva realista basada en lo que el marco hace técnicamente posible. Articula transformación económica (productor recibe 12-25% del precio final frente a 5-15% histórico), humana, generacional y estructural. *· Capítulo 17*
+
+### NOTA SOBRE EL GLOSARIO
+
+El glosario presentado en estas páginas es consolidación al cierre del libro, no diccionario terminado. La adopción del marco por más actores del sector productivo durante los próximos años inevitablemente producirá refinamientos terminológicos, nuevos conceptos que el marco actual no contempla, y términos que migrarán de uso especializado a uso general del sector. Las próximas ediciones del libro incorporarán esos refinamientos.
+
+Una invitación específica a las lectoras y lectores: si encuentran términos que el glosario debería incluir, definiciones que merecen precisión adicional, o referencias cruzadas que faciliten consultas, pueden compartir esas observaciones con Cafelium Foundation a través de los canales de comunicación que la organización mantiene abiertos. El glosario evolucionará con el sector, no con la organización aisladamente.
+
+Una observación final sobre el carácter del glosario. Las definiciones presentadas son operacionales: capturan lo que cada término significa específicamente dentro del marco CacaoOps. No pretenden ser definiciones universales aplicables a todos los contextos en que los términos aparezcan. Un Cacaocultor leyendo otro libro técnico del sector puede encontrar el término \"trazabilidad\" usado con sentido distinto al que tiene en este glosario. La especificidad del marco es deliberada: los términos del marco tienen significados precisos que se diluyen cuando se mezclan con usos generalistas. Reconocer esa especificidad es parte de leer el libro con la rigurosidad que su propuesta merece.
+
+### Cafelium Foundation: Mayo de 2026
+
+*— FIN DEL GLOSARIO —*
