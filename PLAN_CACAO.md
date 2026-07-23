@@ -98,15 +98,18 @@ La columna vertebral conceptual de CafeOps es agnóstica del cultivo y se reutil
 
 ## Estado actual del borrador
 
-- **v0.2 · julio 2026** — Se entregan el **Capítulo 5 · La fermentación como sistema biológico** y el **Capítulo 6 · De la captura a la cultura: implementando FermentOps en operaciones reales**, junto con `PLAN_CACAO.md` y el sitio estático adaptado.
-- Ambos capítulos han sido verificados localmente y renderizan correctamente en el sitio estático.
-- Se añadió al plan la nota de estilo: **tueste, no torrefacción**.
+- **v0.3 · julio 2026** — Se entregan la **Parte II completa (Capítulos 5, 6 y 7)** de FermentOps adaptada a cacao, junto con `PLAN_CACAO.md`, nota de estilo **tueste, no torrefacción**, y el sitio estático adaptado.
+- Los tres capítulos han sido verificados localmente y renderizan correctamente en el sitio estático.
 - Los siguientes capítulos deberán adaptarse siguiendo el glosario y los ajustes descritos en este plan.
 
-## 7. Próximos pasos sugeridos
+## 7. Secuencia de adaptación acordada
 
-1. Validar este plan y el Capítulo 5 piloto.
-2. Adaptar la Parte I (contexto sectorial cacaotero).
-3. Desarrollar Parte II completa: Capítulos 6 (implementación operacional) y 7 (evidencia defendible).
-4. Adaptar Parte IV (tostado del cacao / RoastOps).
-5. Revisar Parte III (TraceOps), Parte V (capas de integración) y Parte VI (Visión 2035), mayoritariamente reemplazos de terminología y ejemplos.
+Se prioriza cerrar primero los capítulos técnicos con mayor densidad de ajustes y dejar la reorganización final del `manuscript.md` para el último paso.
+
+1. **Capítulo 7** — cierra Parte II (FermentOps): datos a evidencia defendible. *(completado)*
+2. **Parte IV · RoastOps (Capítulos 11-12)** — tueste del cacao; aprovechamos la nota "tueste, no torrefacción".
+3. **Parte III · TraceOps (Capítulos 8-10)** — trazabilidad verificable, identificadores, soberanía de datos.
+4. **Parte I · Comprender el sistema cacaotero (Capítulos 1-4)** — contexto sectorial; adaptación mayoritariamente mecánica con el glosario ya validado.
+5. **Parte V · Capas de integración (Capítulos 13-15)** — dimensión económica y humana.
+6. **Parte VI · Visión 2035 (Capítulos 16-18)** — visión y caminos.
+7. **Reordenación final del `manuscript.md`** — I → II → III → IV → V → VI, una vez validados todos los capítulos.
